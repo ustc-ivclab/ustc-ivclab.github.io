@@ -729,10 +729,10 @@ nav.top-nav-short-permanent ~ header > .intro-header.big-img {
     padding: 9.375rem 0;
   }
   .intro-header .page-heading h1 {
-    font-size: 5rem;
+    font-size: 2rem;
   }
   .intro-header .post-heading h1 {
-    font-size: 3.125rem;
+    font-size: 2rem;
   }
   .intro-header.big-img .img-desc {
     font-size: 0.875rem;
@@ -916,9 +916,9 @@ pre {
 /* Make line numbers unselectable: excludes line numbers from copy-paste user ops */
 .lineno {
   -webkit-user-select: none;
-     -moz-user-select: none;
-      -ms-user-select: none;
-          user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
 }
 .lineno::selection, .lineno::-moz-selection {
   background: none;
