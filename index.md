@@ -1,5 +1,5 @@
 ---
 layout: home
-title: Intelligent Video Coding Laboratory
+title: Intelligent Visual Data Coding
 subtitle: Work hard, play harder!
 ---

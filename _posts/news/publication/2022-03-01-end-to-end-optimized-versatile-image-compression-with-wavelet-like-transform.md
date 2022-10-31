@@ -1,4 +1,5 @@
 ---
+title: End-to-end Optimized Versatile Image Compression with Wavelet Like Transform
 tags:
   - publication
   - learning-based

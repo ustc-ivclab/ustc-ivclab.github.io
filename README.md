@@ -44,7 +44,34 @@ You can use the website as your website
 
 ## Maintain
 
-### New people
+### How to build this website
+
+For windows:
+
+1. Download [msys2](https://github.com/msys2/msys2-installer/releases)
+2. Install some needed programs
+
+```sh
+pacman -S pactoys
+pacboy -S gcc:x ruby:x libxslt:x
+gem install nokogiri -- --use-system-libraries
+bundle install
+bundle exec jekyll s
+```
+
+Open <https://localhost:4000>.
+
+For other systems, See <https://jekyllrb.com/docs/installation>
+
+## Develop
+
+```sh
+pip install pre-commit
+pre-commit install
+git commit
+```
+
+### New people join us
 
 1. Add their github account to [our organization](https://github.com/ustc-ivclab)
 2. Create `_posts/people/(student|faculty|alumni)/YYYY-MM-DD-last-name-first_name.md`
@@ -102,7 +129,7 @@ order.
 - [Gitlab profile](https://gitlab.com)
 - [Gitee profile](https://gitee.com)
 
-### New news
+### New event happens
 
 Create `_posts/news/(activity|publication|topic)/YYYY-MM-DD-event_name.md`
 

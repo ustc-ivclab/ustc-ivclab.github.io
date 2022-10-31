@@ -1,7 +1,4 @@
 ---
-timezone: Asian/Shanghai
-
-# Default YAML values (more information on Jekyll's site)
 defaults:
   - scope:
       path: ""
