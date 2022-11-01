@@ -53,7 +53,7 @@ layout: page
 				<div class="tempWrap" style="overflow:hidden; position:relative; width:420px">
           <ul style="width: 2520px; position: relative; overflow: hidden; padding: 0px; margin: 0px; left: -1680px;">
         <!-- 开始 --> 
-        {% for post in posts %}
+        {% for post in posts.academic %}
         {% if post.category != people %}
         {% continue %}
         {% endif %}
@@ -105,11 +105,11 @@ layout: page
         <div>
         <ul class="beij clearfix" style="margin-bottom:20px; width:550px; float:right">
 
-          {% for post in posts.academic %}
-          <!--
+          {% for post in posts %}
+
           {% if post.category != people %}
           {% continue %}
-          {% endif %}-->
+          {% endif %}
 
 
           {%- capture thumbnail -%}
