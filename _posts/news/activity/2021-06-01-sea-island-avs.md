@@ -1,5 +1,5 @@
 ---
-title: Sea island AVS
+title: Sea Island AVS
 cover-img: https://user-images.githubusercontent.com/32936898/198894730-cb30f97c-8c0f-42e2-8948-4a9cc9cd0554.jpg
 thumbnail-img: https://user-images.githubusercontent.com/32936898/198894743-df07dd99-7194-40cd-8c81-606d79f3dcd1.jpg
 tags:
