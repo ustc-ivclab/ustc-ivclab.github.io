@@ -61,15 +61,16 @@ navbar-links:
     - students: tag/student
     - alumni: tag/alumni
   # introduction: introduction/profile
+  publications:
+    - papers: tag/publication
+    - patents: introduction/patents
   activity:
     - academic activities: tag/academic
     - entertainment: tag/entertainment
   services:
     - services: tag/service
     - community: tag/community
-  publications:
-    - papers: tag/publication
-    - patents: introduction/patents
+
 
   #tags: tag
 
