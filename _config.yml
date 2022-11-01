@@ -69,6 +69,23 @@ navbar-links:
     - students: tag/student
     - alumni: tag/alumni
   tags: tag
+
+## navbar-links:
+##   introduction: introduction/profile
+##   publications:
+##     - papers: tag/publication
+##     - patents: tag/publication
+##   news:
+##     - publications: tag/publication
+##     - activities: tag/activity
+##     - topics: tag/topic
+##   people:
+##     - faculty: tag/faculty
+##     - students: tag/student
+##     - alumni: tag/alumni
+##   tags: tag
+
+
   #more: README
 
 #####################################
