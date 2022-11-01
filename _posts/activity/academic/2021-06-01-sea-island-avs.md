@@ -5,6 +5,7 @@ thumbnail-img: https://user-images.githubusercontent.com/32936898/198894743-df07
 tags:
   - activity
   - team building
+  - shows
 ---
 
 ## Photos

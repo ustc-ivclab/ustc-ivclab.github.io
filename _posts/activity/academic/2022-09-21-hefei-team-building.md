@@ -3,6 +3,7 @@ cover-img: https://user-images.githubusercontent.com/32936898/198894246-91e79331
 tags:
   - activity
   - team building
+  - shows
 ---
 
 ## Photos

@@ -6,6 +6,7 @@ tags:
   - activity
   - team building
   - academic
+  - shows
 ---
 
 ## Photos
