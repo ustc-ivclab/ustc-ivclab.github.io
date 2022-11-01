@@ -57,6 +57,9 @@ url: https://ustc-ivclab.github.io
 
 navbar-links:
   introduction: introduction/profile
+  publications:
+    - papers: tag/publication
+    - patents: tag/publication
   news:
     - publications: tag/publication
     - activities: tag/activity
@@ -66,7 +69,7 @@ navbar-links:
     - students: tag/student
     - alumni: tag/alumni
   tags: tag
-  more: README
+  #more: README
 
 #####################################
 # --- Footer social media links --- #
