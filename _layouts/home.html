@@ -75,9 +75,11 @@ layout: page
         {% if thumbnail != "" %}
 
         {% if var == 1 %}
-          <li class="on">{{ var }}</li>
+          <li class="on">1</li>
         {% else %}
+        {% capture var %}
           <li class="">{{ var }}</li>
+        {% endcapture %}
         {% endif %} 
         {% increment var %}
 
