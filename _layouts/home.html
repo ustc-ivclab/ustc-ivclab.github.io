@@ -75,7 +75,9 @@ layout: page
         {% if thumbnail != "" %}
 
         {% if var == 1 %}
-          <li class="on">1</li>
+        {% capture var %}
+          <li class="on">{{ var }}</li>
+          {% endcapture %}
         {% else %}
         {% capture var %}
           <li class="">{{ var }}</li>
@@ -86,7 +88,7 @@ layout: page
       {% endif %}
       {% endunless %}
       {% endfor %}
-                <li class="">1</li><li class="">2</li><li class="">3</li><li class="on">4</li>                </ul>
+
 			</div>
 			<div class="bd">
 				<div class="tempWrap" style="overflow:hidden; position:relative; width:420px">
