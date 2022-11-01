@@ -101,27 +101,36 @@ layout: page
         <div>
         <ul class="beij clearfix" style="margin-bottom:20px; width:550px; float:right">
 
-                      <li> 
-              <span style="float:right">2022-10-24</span>
-              <a href="xwgg/xwdt/2022/1361763.htm" title="王选：科学研究的目标与环境" target="_blank">·王选：科学研究的目标与环境</a>
-            </li>
-                      <li> 
-              <span style="float:right">2022-10-18</span>
-              <a href="xwgg/xwdt/2022/1361600.htm" title="顶天立地新时代 聚力谱写新篇章——王选所深入学习二十大报告精神" target="_blank">·顶天立地新时代 聚力谱写新篇章——王选所深入学习二十大报告精…</a>
-            </li>
-                      <li> 
-              <span style="float:right">2022-10-07</span>
-              <a href="xwgg/xwdt/2022/1360947.htm" title="刘家瑛、邹磊老师荣升CCF杰出会员" target="_blank">·刘家瑛、邹磊老师荣升CCF杰出会员</a>
-            </li>
-                      <li> 
-              <span style="float:right">2022-10-06</span>
-              <a href="xwgg/xwdt/2022/1360823.htm" title="喜报 | 汪文靖同学获得2022年“微软学者”奖学金" target="_blank">·喜报 | 汪文靖同学获得2022年“微软学者”奖学金</a>
-            </li>
-                      <li> 
-              <span style="float:right">2022-10-06</span>
-              <a href="xwgg/xwdt/2022/1360935.htm" title="王选所教师组织并参加CCF国际会议NLPCC2022" target="_blank">·王选所教师组织并参加CCF国际会议NLPCC2022</a>
-            </li>
-          
+          {% for post in posts %}
+          {% if post.category != people %}
+          {% continue %}
+          {% endif %}
+
+
+          {%- capture thumbnail -%}
+          {% if post.thumbnail-img %}
+            {{ post.thumbnail-img }}
+          {% elsif post.cover-img %}
+            {% if post.cover-img.first %}
+              {{ post.cover-img[0].first.first }}
+            {% else %}
+              {{ post.cover-img }}
+            {% endif %}
+          {% else %}
+          {% endif %}
+        {% endcapture %}
+        {% assign thumbnail=thumbnail | strip %}
+  
+
+        {% unless site.feed_show_excerpt == false %}
+        {% if thumbnail != "" %}
+        <li>
+              <span style="float:right">{% assign date_format = site.date_format | default: "%B %-d, %Y" %} {{ post.date | date: date_format }}</span>
+              <a href="{{ post.url | absolute_url }}" title="{{ post.title | strip_html }}" target="_blank">{{ post.title | strip_html }}</a>
+        </li>
+        {% endif %}
+        {% endunless %}
+        {% endfor %}
         </ul>
         
       </div>
