@@ -4,6 +4,7 @@ thumbnail-img: https://user-images.githubusercontent.com/32936898/198894813-73ee
 tags:
   - activity
   - senior
+  - academic
 ---
 
 ## Photos

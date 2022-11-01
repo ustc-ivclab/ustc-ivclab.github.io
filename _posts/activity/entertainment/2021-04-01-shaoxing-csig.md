@@ -5,6 +5,7 @@ thumbnail-img: https://user-images.githubusercontent.com/116997215/198934955-170
 tags:
   - activity
   - team building
+  - entertainment
 ---
 
 ## Photos

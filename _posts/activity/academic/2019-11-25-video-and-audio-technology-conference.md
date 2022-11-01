@@ -3,4 +3,5 @@ cover-img: https://user-images.githubusercontent.com/116997215/198894156-af8341e
 tags:
   - activity
   - meeting
+  - academic
 ---

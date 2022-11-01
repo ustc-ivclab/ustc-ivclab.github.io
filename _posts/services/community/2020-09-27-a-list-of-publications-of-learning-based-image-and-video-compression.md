@@ -2,6 +2,7 @@
 tags:
   - topic
   - collection
+  - community
 ---
 
 This is a list of recent publications regarding deep learning-based image and

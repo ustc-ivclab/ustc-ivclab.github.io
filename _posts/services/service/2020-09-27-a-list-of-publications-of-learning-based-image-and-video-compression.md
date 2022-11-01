@@ -2,6 +2,7 @@
 tags:
   - topic
   - collection
+  - service
 ---
 
 This is a list of recent publications regarding deep learning-based image and
