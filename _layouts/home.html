@@ -6,7 +6,132 @@ layout: page
 
 {% assign posts = paginator.posts | default: site.posts %}
 <!-- role="list" needed so that `list-style: none` in Safari doesn't remove the list semantics -->
-<!--
+<link href="css/bootstrap.css" rel="stylesheet">
+<link href="css/bootstrap-responsive.css" rel="stylesheet">
+<link href="css/docs.css" rel="stylesheet">
+<link href="css/onethink.css" rel="stylesheet">
+
+<!-- Le HTML5 shim, for IE6-8 support of HTML5 elements -->
+<!--[if lt IE 9]>
+<script src="/Public/static/bootstrap/js/html5shiv.js"></script>
+<![endif]-->
+
+<!--[if lt IE 9]>
+<script type="text/javascript" src="/Public/static/jquery-1.10.2.min.js"></script>
+<![endif]-->
+<!--[if gte IE 9]><!-->
+<script type="text/javascript" src="js/jquery-2.0.3.min.js"></script>
+<!--<![endif]-->
+<script type="text/javascript" src="js/bootstrap.min.js"></script>
+<link href="css/index.css" rel="stylesheet" type="text/css">
+<script src="js/stickUp.min.js"></script><script src="js/jquery.goup.min.js"></script>
+<script src="js/my.js" type="text/javascript"></script>
+
+<!-- 页面header钩子，一般用于加载插件CSS文件和代码 -->
+
+<body style="">
+
+  <script>
+    $(function(){	
+      $('.navname').each(function(index){
+          if($(this).attr("href").indexOf("Index/index")>0)
+        {
+           $(this).addClass("on"); 	
+        }	
+      });
+    });
+    </script>
+	
+	<!-- 主体 -->
+	
+<div class="mainpart">
+  <div class="container wrap clearfix">
+  
+    <div class="index-top">
+      <h3 class="title"><span><em>N</em>ews</span>新闻</h3>
+      <script type="text/javascript" src="js/jquery.SuperSlide.2.1.1.js"></script>
+      <div id="slideBox" class="slideBox">
+			<div class="hd">
+				<ul>
+                <li class="">1</li><li class="">2</li><li class="">3</li><li class="on">4</li>                </ul>
+			</div>
+			<div class="bd">
+				<div class="tempWrap" style="overflow:hidden; position:relative; width:420px">
+          <ul style="width: 2520px; position: relative; overflow: hidden; padding: 0px; margin: 0px; left: -1680px;">
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                        <li style="float: left; width: 420px;">
+                      <a href="xwgg/xwdt/2022/1357399.htm" title="北京大学王选纪念陈列室入选首批科学家精神教育基地" target="_blank">
+                        <img src="1.png" style="background-image:url(images/content/2022-06/20220622081702935444.jpg); background-size:cover; background-position:center; background-repeat:no-repeat">
+                        北京大学王选纪念陈列室入选首批科学家精神教育基地
+                      </a>              
+                    </li>
+                                                                                                                                                                                                      <li style="float: left; width: 420px;">
+                      <a href="xwgg/xwdt/2019/1312862.htm" title="新闻联播“新中国的第一” 点赞第一个计算机中文信息处理系统—汉字激光照排系统" target="_blank">
+                        <img src="2.png" style="background-image:url(images/content/2019-09/20190926092930089152.png); background-size:cover; background-position:center; background-repeat:no-repeat">
+                        新闻联播“新中国的第一” 点赞第一个计算机中文信息处理系统—汉字…
+                      </a>              
+                    </li>
+                                                                                                                                                  <li style="float: left; width: 420px;">
+                      <a href="xwgg/xwdt/2022/1356062.htm" title="“个性化中文字库自动生成技术”入选2021年出版业科技与标准创新示范项目" target="_blank">
+                        <img src="1.png" style="background-image:url(images/content/2022-06/20220622082124192529.png); background-size:cover; background-position:center; background-repeat:no-repeat">
+                        “个性化中文字库自动生成技术”入选2021年出版业科技与标准创新示…
+                      </a>              
+                    </li>
+                                                                                                                                                                                                      <li style="float: left; width: 420px;">
+                      <a href="xwgg/xwdt/2022/1355561.htm" title="科海建伟业  家国桃李芳 ——王选所举办肖建国老师荣休茶话会" target="_blank">
+                        <img src="2.png" style="background-image:url(images/content/2022-06/20220622081320454302.jpg); background-size:cover; background-position:center; background-repeat:no-repeat">
+                        科海建伟业  家国桃李芳 ——王选所举办肖建国老师荣休茶话会
+                      </a>              
+                    </li>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                
+           </ul></div>
+			</div>
+
+			<!-- 下面是前/后按钮代码，如果不需要删除即可 -->
+			<a class="prev" href="javascript:void(0)"></a>
+			<a class="next" href="javascript:void(0)"></a>
+
+		</div>
+        
+        <script type="text/javascript">
+		jQuery(".slideBox").slide({mainCell:".bd ul",autoPlay:true,effect:"leftLoop",});
+		</script>
+        
+        <div>
+        <ul class="beij clearfix" style="margin-bottom:20px; width:550px; float:right">
+
+                      <li> 
+              <span style="float:right">2022-10-24</span>
+              <a href="xwgg/xwdt/2022/1361763.htm" title="王选：科学研究的目标与环境" target="_blank">·王选：科学研究的目标与环境</a>
+            </li>
+                      <li> 
+              <span style="float:right">2022-10-18</span>
+              <a href="xwgg/xwdt/2022/1361600.htm" title="顶天立地新时代 聚力谱写新篇章——王选所深入学习二十大报告精神" target="_blank">·顶天立地新时代 聚力谱写新篇章——王选所深入学习二十大报告精…</a>
+            </li>
+                      <li> 
+              <span style="float:right">2022-10-07</span>
+              <a href="xwgg/xwdt/2022/1360947.htm" title="刘家瑛、邹磊老师荣升CCF杰出会员" target="_blank">·刘家瑛、邹磊老师荣升CCF杰出会员</a>
+            </li>
+                      <li> 
+              <span style="float:right">2022-10-06</span>
+              <a href="xwgg/xwdt/2022/1360823.htm" title="喜报 | 汪文靖同学获得2022年“微软学者”奖学金" target="_blank">·喜报 | 汪文靖同学获得2022年“微软学者”奖学金</a>
+            </li>
+                      <li> 
+              <span style="float:right">2022-10-06</span>
+              <a href="xwgg/xwdt/2022/1360935.htm" title="王选所教师组织并参加CCF国际会议NLPCC2022" target="_blank">·王选所教师组织并参加CCF国际会议NLPCC2022</a>
+            </li>
+          
+        </ul>
+        
+      </div>
+      <div class="clearfix"></div>
+    </div>
+  </div>
+   
+	<!-- /主体 -->
+
+
+
 <ul class="posts-list list-unstyled" role="list">
   {% for post in posts %}
   {% if post.category != people %}
@@ -114,4 +239,3 @@ layout: page
   {% endif %}
 </ul>
 {% endif %}
--->
