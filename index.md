@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Intelligent Visual Data Coding
+title: Intelligent Visual Data Coding Laboratory
 subtitle: Work hard, play harder!
 ---
 
@@ -13,7 +13,7 @@ subtitle: Work hard, play harder!
 
 ## Contact us
 
-- [:e-mail:](mailto:dongeliu@mail.ustc.edu.cn) dongeliu@mail.ustc.edu.cn, [:e-mail:](mailto:lil1@ustc.edu.cn) lil1@ustc.edu.cn
+- [:e-mail:](mailto:dongeliu@mail.ustc.edu.cn) dongeliu@mail.ustc.edu.cn,&emsp; [:e-mail:](mailto:lil1@ustc.edu.cn) lil1@ustc.edu.cn
 - [:speech_balloon:](https://github.com/ustc-ivclab/.github/discussions) [![github/discussions](https://shields.io/github/discussions/ustc-ivclab/.github)](https://github.com/ustc-ivclab/.github/discussions)
 - [:office:](https://ustc.edu.cn/) Dept. EEIS, No. 443 Huangshan Road, Hefei,
   Anhui Province, China
