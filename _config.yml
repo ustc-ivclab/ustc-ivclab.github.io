@@ -65,12 +65,12 @@ navbar-links:
     - papers: tag/publication
     - patents: introduction/patents
   activity:
-    - academic activities: tag/activity
-    - entertainment: tag/activity
+    - academic activities: tag/academic
+    - entertainment: tag/entertainment
 
   services:
-    - services: tag/topic
-    - community: tag/topic
+    - services: tag/service
+    - community: tag/community
   #tags: tag
 
 ## navbar-links:
