@@ -131,7 +131,7 @@ order.
 
 ### New event happens
 
-Create `_posts/news/(activity|publication|topic)/YYYY-MM-DD-event_name.md`
+Create `_posts/news/(academic|entertainment|publication|service|community)/YYYY-MM-DD-event_name.md`
 
 ```markdown
 ---
