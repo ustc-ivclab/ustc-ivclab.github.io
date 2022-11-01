@@ -16,4 +16,4 @@ tags:
 - Homepage: <https://github.com/zht1999>
 - Education experience:
     - 2021.09 - present  &emsp;  M.S. candidate in University of Science and Technology of China
-    - 2017.09 - 2021.06  &emsp;  B.E. in Tongji University
+    - 2017.09 - 2021.06  &emsp;  B.E. in University of Science and Technology of China
