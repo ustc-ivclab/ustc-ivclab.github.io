@@ -6,7 +6,7 @@ tags:
 
 ## Photo
 
-![profile](https://scholar.google.com/citations/images/avatar_scholar_128.png)
+![profile](https://github.com/ustc-ivclab/ustc-ivclab.github.io/blob/main/pictures/people/fengxinmin.jpg?raw=true)
 
 ## Information
 
