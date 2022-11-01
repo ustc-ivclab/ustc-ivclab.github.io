@@ -43,23 +43,20 @@ layout: page
 	
 	<!-- 主体 -->
 	
-<div class="mainpart">
-  <div class="container wrap clearfix">
+  <div class="mainpart">
+    <div class="container wrap clearfix">
+    
+      <div class="index-top">
+        <h3 class="title"><span><em>N</em>ews</span>新闻</h3>
+        <script type="text/javascript" src="assets/js/jquery.SuperSlide.2.1.1.js"></script>
+        <div id="slideBox" class="slideBox">
   
-    <div class="index-top">
-      <h3 class="title"><span><em>N</em>ews</span></h3>
-      <script type="text/javascript" src="assets/js/jquery.SuperSlide.2.1.1.js"></script>
-      <div id="slideBox" class="slideBox">
-			<div class="bd">
-				<div class="tempWrap" style="overflow:hidden; position:relative; width:420px">
-          <ul style="width: 2520px; position: relative; overflow: hidden; padding: 0px; margin: 0px; left: -1680px;">
+        <div class="bd">
+          <div class="tempWrap" style="overflow:hidden; position:relative; width:420px">
+            <ul style="width: 2520px; position: relative; overflow: hidden; padding: 0px; margin: 0px; left: -1680px;">
         <!-- 开始 --> 
         {% for post in site.categories.news.posts %}
-        {% if post.category != people %}
-        {% continue %}
-        {% endif %}
-
-
+        <a href="{{ post.url | absolute_url }}" title="{{ post.title | strip_html }}">
         {%- capture thumbnail -%}
         {% if post.thumbnail-img %}
           {{ post.thumbnail-img }}
