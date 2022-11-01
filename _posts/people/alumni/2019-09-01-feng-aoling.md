@@ -6,7 +6,7 @@ tags:
 
 ## Photo
 
-![profile](https://gitee.com/myslq/ivc_pic/raw/master/pic/fengaolin.jpg)
+![profile](https://github.com/mylq/ivc_pic/blob/main/pic/fengaolin.jpg?raw=true)
 
 ## Information
 
