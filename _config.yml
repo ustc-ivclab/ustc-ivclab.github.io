@@ -69,7 +69,8 @@ navbar-links:
     - alumni: tag/alumni
   services:
     - services: tag/topic
-  tags: tag
+    - community: tag/topic
+  #tags: tag
 
 ## navbar-links:
 ##   introduction: introduction/profile
