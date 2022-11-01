@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Introduction
+title: USTC IVCLab Introduction
 ---
 
 ## About us

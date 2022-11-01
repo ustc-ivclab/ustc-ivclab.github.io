@@ -60,14 +60,15 @@ navbar-links:
   publications:
     - papers: tag/publication
     - patents: tag/publication
-  news:
-    - publications: tag/publication
-    - activities: tag/activity
-    - topics: tag/topic
+  activity:
+    - academic activities: tag/activity
+    - entertainment: tag/activity
   people:
     - faculty: tag/faculty
     - students: tag/student
     - alumni: tag/alumni
+  services:
+    - services: tag/topic
   tags: tag
 
 ## navbar-links:
