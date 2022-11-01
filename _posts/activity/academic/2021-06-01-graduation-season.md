@@ -5,6 +5,7 @@ tags:
   - activity
   - senior
   - academic
+  - news
 ---
 
 ## Photos

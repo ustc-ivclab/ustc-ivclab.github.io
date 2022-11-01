@@ -4,5 +4,5 @@ tags:
   - activity
   - meeting
   - academic
-  - shows
+  - news
 ---

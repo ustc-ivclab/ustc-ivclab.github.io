@@ -54,7 +54,7 @@ layout: page
 				<div class="tempWrap" style="overflow:hidden; position:relative; width:420px">
           <ul style="width: 2520px; position: relative; overflow: hidden; padding: 0px; margin: 0px; left: -1680px;">
         <!-- 开始 --> 
-        {% for post in posts.academic %}
+        {% for post in site.news.posts %}
         {% if post.category != people %}
         {% continue %}
         {% endif %}
@@ -73,6 +73,27 @@ layout: page
         {% endif %}
       {% endcapture %}
       {% assign thumbnail=thumbnail | strip %}     
+
+
+      {% if site.feed_show_excerpt == false %}
+      {% if thumbnail != "" %}
+      <li style="float: left; width: 420px;">
+        <a href="{{ post.url | absolute_url }}" title="{{ post.title | strip_html }}" target="_blank">
+          <img src="{{ thumbnail | absolute_url }}" style="background-image:url(images/content/2022-06/20220622081702935444.jpg); background-size:cover; background-position:center; background-repeat:no-repeat">
+          {{ post.title | strip_html }}
+        </a>              
+      </li>
+      {% endif %}
+      {% endif %}
+
+      {% if thumbnail != "" %}
+      <li style="float: left; width: 420px;">
+        <a href="{{ post.url | absolute_url }}" title="{{ post.title | strip_html }}" target="_blank">
+          <img src="{{ thumbnail | absolute_url }}" style="background-image:url(images/content/2022-06/20220622081702935444.jpg); background-size:cover; background-position:center; background-repeat:no-repeat">
+          {{ post.title | strip_html }}
+        </a>              
+      </li>
+      {% endif %}
 
       {% unless site.feed_show_excerpt == false %}
       {% if thumbnail != "" %}
@@ -127,21 +148,6 @@ layout: page
         {% endcapture %}
         {% assign thumbnail=thumbnail | strip %}
   
-        {% if site.feed_show_excerpt == false %}
-        {% if thumbnail != "" %}
-        <li>
-          <span style="float:right">{% assign date_format = site.date_format | default: "%B %-d, %Y" %} {{ post.date | date: date_format }}</span>
-          <a href="{{ post.url | absolute_url }}" title="{{ post.title | strip_html }}" target="_blank">{{ post.title | strip_html }}</a>
-        </li>
-        {% endif %}
-        {% endif %}
-
-        {% if thumbnail != "" %}
-        <li>
-          <span style="float:right">{% assign date_format = site.date_format | default: "%B %-d, %Y" %} {{ post.date | date: date_format }}</span>
-          <a href="{{ post.url | absolute_url }}" title="{{ post.title | strip_html }}" target="_blank">{{ post.title | strip_html }}</a>
-        </li>
-        {% endif %}
 
         {% unless site.feed_show_excerpt == false %}
         {% if thumbnail != "" %}
