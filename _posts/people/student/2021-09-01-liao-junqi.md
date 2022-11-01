@@ -11,4 +11,9 @@ tags:
 ## Information
 
 - Chinese name: 廖峻骐
-- Homepage: <https://www.zhihu.com/people/chao-zhuai-xiao-peng-you>
+- English name: junqi
+- Interests: Scientific research, music
+- Homepage: <https://blog.csdn.net/qq_43616471?type=blog>
+- Education experience:
+    - 2021.09 - present  &emsp;  M.S. candidate in University of Science and Technology of China
+    - 2017.09 - 2021.06  &emsp;  B.E. in Daliann Maritime University

@@ -12,4 +12,8 @@ tags:
 
 - Chinese name: 卞逸凡
 - English name: Togel Bian
-- Homepage: <https://esakak.world>
+- Interests: Guitar, basketball
+- Homepage: <https://esakak.world/PersonalPage>
+- Education experience:
+    - 2022.09 - present  &emsp;  M.S. candidate in University of Science and Technology of China
+    - 2018.09 - 2022.06  &emsp;  B.E. in Tongji University
