@@ -7,10 +7,10 @@ defaults:
       layout: home
       comments: true  # add comments to all blog posts
       social-share: true # add social media sharing buttons to all blog posts
-  - scope:
-      path: "" # any file that's not a post will be a "page" layout by default
-    values:
-      layout: page
+# - scope:
+#     path: "" # any file that's not a post will be a "page" layout by default
+#   values:
+#     layout: page
 
 exclude:
   - Gemfile
