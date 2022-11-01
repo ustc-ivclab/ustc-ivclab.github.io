@@ -54,7 +54,7 @@ layout: page
 				<div class="tempWrap" style="overflow:hidden; position:relative; width:420px">
           <ul style="width: 2520px; position: relative; overflow: hidden; padding: 0px; margin: 0px; left: -1680px;">
         <!-- 开始 --> 
-        {% for post in site.news.posts %}
+        {% for post in site.categories.news.posts %}
         {% if post.category != people %}
         {% continue %}
         {% endif %}
