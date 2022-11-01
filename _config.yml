@@ -63,7 +63,7 @@ navbar-links:
   # introduction: introduction/profile
   publications:
     - papers: tag/publication
-    - patents: tag/patents
+    - patents: introduction/patents
   activity:
     - academic activities: tag/activity
     - entertainment: tag/activity
