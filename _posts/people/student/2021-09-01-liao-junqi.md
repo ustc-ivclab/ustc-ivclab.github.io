@@ -12,8 +12,8 @@ tags:
 
 - Chinese name: 廖峻骐
 - English name: junqi
-- Interests: Scientific research, music
+- Interests: Gluttonous snake
 - Homepage: <https://blog.csdn.net/qq_43616471?type=blog>
 - Education experience:
     - 2021.09 - present  &emsp;  M.S. candidate in University of Science and Technology of China
-    - 2017.09 - 2021.06  &emsp;  B.E. in Daliann Maritime University
+    - 2017.09 - 2021.06  &emsp;  B.E. in Dalian Maritime University
