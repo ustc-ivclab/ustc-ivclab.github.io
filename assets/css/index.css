@@ -154,10 +154,10 @@ a:hover{color:#ba0000}
 
 .container .cont-r{float:right;width:545px; padding-bottom:20px;}
 
-.container .title{ height:auto;padding-top:10px;border-bottom:1px solid #9a0000;font-size:16px;color:#333;font-family:Arial;position:relative;font-weight:400}
+.container .title{ height:auto;padding-top:10px;border-bottom:1px solid #3f77c9;font-size:16px;color:#333;font-family:Arial;position:relative;font-weight:400}
 .container .title span{ margin-right:10px; color:#999; font-size:24px;}
 /*.container .title span em{   color:#94070a; border:2px solid #94070a;border-radius:5px; -moz-border-radius:5px; -webkit-border-radius:5px; padding:3px 3px 2px 8px; margin-right:3px;}*/
-.container .title span em{   color:#ffffff; background:#94070a; border-radius:5px; -moz-border-radius:5px; -webkit-border-radius:5px; padding:3px 3px 2px 8px; font-size:18px; margin-right:2px;}
+.container .title span em{   color:#ffffff; background:#3f77c9; border-radius:5px; -moz-border-radius:5px; -webkit-border-radius:5px; padding:3px 3px 2px 8px; font-size:18px; margin-right:2px;}
 .container .title a.more{ float:right; color:#666; font-size:14px; line-height:35px;}
 
 .btn-wrap{
