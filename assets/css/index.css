@@ -1,10 +1,4 @@
 
-
-
-
-
-
-
 textarea{resize:none}
 
 a{text-decoration:none !important; color:#ba0000}
@@ -17,7 +11,6 @@ a:hover{color:#ba0000}
 .clearfix{zoom:1}
 .wrap{width:1004px;margin:0 auto}
 
-.f-scroll{width:100%;min-width:1000px;background:url(../images/scrollbg.jpg) repeat-x bottom left;}
 .focuss{ margin-top:0px;}
 
 .header{width:100%;height:36px;line-height:36px;background:#efefef;min-width:1000px}
@@ -27,14 +20,6 @@ a:hover{color:#ba0000}
 .head a{display:inline-block;padding:0 10px;font-size:14px;color:#fff}
 
 .head a:hover{color:#fff}
-
-.top-m{background:url(../images/s-bg.jpg) center;}
-
-.top-m .wrap{height:100px;padding-top:30px; }
-
-.top-m .logo{float:left;margin-left:10px;width:88px}.top-m .logo img{ max-width:none !important}
-
-.top-m .search{float:right;padding-top:10px}
 
 ::-webkit-input-placeholder{color:#bcb8b8}
 
@@ -153,6 +138,12 @@ a:hover{color:#ba0000}
 /*.container .title span em{   color:#94070a; border:2px solid #94070a;border-radius:5px; -moz-border-radius:5px; -webkit-border-radius:5px; padding:3px 3px 2px 8px; margin-right:3px;}*/
 .container .title span em{   color:#ffffff; background:#185ec5; border-radius:5px; -moz-border-radius:5px; -webkit-border-radius:5px; padding:3px 3px 2px 8px; font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:1.875rem; font-weight:800;margin-right:2px;}
 .container .title a.more{ float:right; color:#666; font-size:14px; line-height:35px;}
+
+.container-md .title{ height:auto;padding-top:10px;border-bottom:1px solid #185ec5;font-size:16px;color:#333;font-family:Arial;position:relative;font-weight:400}
+.container-md .title span{ margin-right:10px; color:#999; font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:1.875rem;font-weight:800;}
+
+.container-md .title span em{   color:#ffffff; background:#185ec5; border-radius:5px; -moz-border-radius:5px; -webkit-border-radius:5px; padding:3px 3px 2px 8px; font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:1.875rem; font-weight:800;margin-right:2px;}
+.container-md .title a.more{ float:right; color:#666; font-size:14px; line-height:35px;}
 
 .btn-wrap{
     padding-top: 26px;
@@ -278,3 +269,4 @@ a:hover{color:#ba0000}
     border: 1px solid #ccc;
     color: #000;
 }
+
