@@ -12,7 +12,7 @@ tags:
 
 - Chinese name: 唐传波
 - English name: Austin
-- Interests: Gluttonous snake and movies
+- Interests: Basketball, gluttonous snake , and movies
 - Homepage: <https://github.com/Austin4USTC>
 - Education experience:
     - 2021.09 - present  &emsp;  M.S. candidate in University of Science and Technology of China
