@@ -11,3 +11,8 @@ tags:
 ## Information
 
 - Chinese name: 梅飞鸿
+- English name: Feihong Mei
+- Interests: Gluttonous snake
+- Education experience:
+    - 2021.09 - present  &emsp;  M.S. candidate in University of Science and Technology of China
+    - 2017.09 - 2021.06  &emsp;  B.E. in University of Science and Technology of China
