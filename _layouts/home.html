@@ -56,9 +56,9 @@ layout: page
             <ul style="width: 2520px; position: relative; overflow: hidden; padding: 0px; margin: 0px; left: -1680px;">
         <!-- 开始 --> 
         {% for post in posts %}
-        {% if post.category != people %}
-        {% continue %}
-        {% endif %}
+        {* if post.is_show_left != true *}
+        {* continue *}
+        {* endif *}
 
         {%- capture thumbnail -%}
         {% if post.thumbnail-img %}
@@ -129,9 +129,9 @@ layout: page
 
           {% for post in posts %}
 
-          {% if post.category != people %}
-          {% continue %}
-          {% endif %}
+          {* if post.is_show_right != true *}
+          {* continue *}
+          {* endif *}
 
 
           {%- capture thumbnail -%}

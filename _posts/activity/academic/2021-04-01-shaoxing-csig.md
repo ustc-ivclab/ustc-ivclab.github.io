@@ -7,6 +7,8 @@ tags:
   - team building
   - entertainment
   - news
+is_show_left: true
+is_show_right: false
 ---
 
 ## Photos

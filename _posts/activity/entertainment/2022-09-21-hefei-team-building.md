@@ -4,6 +4,8 @@ tags:
   - activity
   - team building
   - news
+is_show_left: true
+is_show_right: false
 ---
 
 ## Photos

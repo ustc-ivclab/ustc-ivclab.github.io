@@ -4,6 +4,8 @@ thumbnail-img: https://user-images.githubusercontent.com/116997215/198931145-893
 tags:
   - activity
   - senior
+is_show_left: false
+is_show_right: true
 ---
 
 ## Photos

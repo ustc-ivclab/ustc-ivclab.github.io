@@ -4,6 +4,8 @@ thumbnail-img: https://user-images.githubusercontent.com/32936898/198894354-c4e8
 tags:
   - activity
   - match
+is_show_left: true
+is_show_right: false
 ---
 
 ## Award
