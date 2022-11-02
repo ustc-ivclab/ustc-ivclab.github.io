@@ -1,4 +1,5 @@
 ---
+title: iWave CNN Based Wavelet Like Transform For Image Compression
 tags:
   - publication
   - learning-based

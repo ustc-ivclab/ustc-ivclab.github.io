@@ -3,6 +3,8 @@ cover-img: https://user-images.githubusercontent.com/116997215/198930777-eb56c39
 thumbnail-img: https://user-images.githubusercontent.com/32936898/198894813-73eef13b-e4d3-406e-bb8d-ff9c5eee787b.jpg
 tags:
   - entertainment
+is_show_left: false
+is_show_right: true
 ---
 
 ## Photos

@@ -63,13 +63,13 @@ navbar-links:
   # introduction: introduction/profile
   publications:
     - papers: tag/publication
-    - patents: introduction/patents
+    - patents: pages/patents
   activity:
     - academic activities: tag/academic
     - entertainment: tag/entertainment
   services:
-    - services: tag/service
-    - community: tag/community
+    - publication list: tag/resources
+    - lectures: tag/lectures
 
 
   #tags: tag
