@@ -5,29 +5,11 @@ layout: page
 {{ content }}
 
 {% assign posts = paginator.posts | default: site.posts %}
-<!-- role="list" needed so that `list-style: none` in Safari doesn't remove the list semantics -->
-<!--<link href="assets/css/bootstrap.css" rel="stylesheet">
-<link href="assets/css/bootstrap-responsive.css" rel="stylesheet">
-<link href="assets/css/docs.css" rel="stylesheet">
-<link href="assets/css/onethink.css" rel="stylesheet">-->
 
-<!-- Le HTML5 shim, for IE6-8 support of HTML5 elements -->
-<!--[if lt IE 9]>
-<script src="/Public/static/bootstrap/js/html5shiv.js"></script>
-<![endif]-->
-
-<!--[if lt IE 9]>
-<script type="text/javascript" src="/Public/static/jquery-1.10.2.min.js"></script>
-<![endif]-->
-<!--[if gte IE 9]><!-->
 <script type="text/javascript" src="assets/js/jquery-2.0.3.min.js"></script>
 <!--<![endif]-->
-<script type="text/javascript" src="assets/js/bootstrap.min.js"></script>
 <link href="assets/css/index.css" rel="stylesheet" type="text/css">
-<script src="assets/js/stickUp.min.js"></script>
-<script src="assets/js/my.js" type="text/javascript"></script>
 
-<link href="assets/css/beautifuljekyll.css" rel="stylesheet" type="text/css">
 <!-- 页面header钩子，一般用于加载插件CSS文件和代码 -->
 
   <script>
@@ -49,29 +31,27 @@ layout: page
     var div1 = document.getElementById('slideBox');
     var div2 = div1.getElementsByTagName('div')[0];
     var div3 = div2.getElementsByTagName('div')[0];
-    var div4 = div3.getElementsByTagName('div')[0];
-    var ul1 = div4.getElementsByTagName('ul')[0];
+    var ul1 = div3.getElementsByTagName('ul')[0];
     var ul1_left = ul1.style.left;
-    console.log(ul1);
-    console.log(ul1_left);
+    console.log(div2)
     switch (num){
       case 0:
-      ul1.style.left = "-420px";
+      ul1.style.left = "0px";
         break;
       case 1:
-      ul1.style.left = "-840px";
+      ul1.style.left = "-420px";
         break;
       case 2:
-      ul1.style.left = "-1260px";
+      ul1.style.left = "-840px";
         break;
       case 3:
-      ul1.style.left = "-1680px";
+      ul1.style.left = "-1260px";
           break;
     }
     num++;
     num = num %4;
     } 
-    var t2 = window.setInterval("cron_pic()",3000); 
+    var t2 = window.setInterval("cron_pic()",2500); 
 
   </script>
 
@@ -82,13 +62,13 @@ layout: page
     <div class="container wrap clearfix">
     
       <div class="index-top">
-        <h3 class="title"><span><em>N</em>ews</span><a href="pages/news" class="more">&gt;&gt;More</a></h3>
-        <script type="text/javascript" src="assets/js/jquery.SuperSlide.2.1.1.js"></script>
+        <h2 class="title"><span><em>N</em>ews</span><a href="pages/news" class="more">&gt;&gt;More</a></h2>
+        
         <div id="slideBox" class="slideBox">
   
         <div class="bd">
           <div class="tempWrap" style="overflow:hidden; position:relative; width:420px">
-            <ul style="width: 2520px; position: relative; overflow: hidden; padding: 0px; margin: 0px; left: -1680px;">
+            <ul style="width: 1680px; position: relative; overflow: hidden; padding: 0px; margin: 0px; left: 0px;">
         <!-- 开始 --> 
         {% for post in posts %}
         {% if post.is_show_left == true %}
@@ -112,7 +92,7 @@ layout: page
       <li style="float: left; width: 420px;">
         <a href="{{ post.url | absolute_url }}" title="{{ post.title | strip_html }}" target="_blank">
           <img src="{{ thumbnail | absolute_url }}" style="background-image:url(images/content/2022-06/20220622081702935444.jpg); background-size:cover; background-position:center; background-repeat:no-repeat">
-          {{ post.title | strip_html }}
+          {{ post.title | strip_html }}, {% assign date_format = site.date_format | default: "%B %-d, %Y" %} {{ post.date | date: date_format }}
         </a>              
       </li>
 
@@ -160,95 +140,7 @@ layout: page
     </div>
   </div>
 </div>
-	<!-- /主体 -->
 
-
-			<!-- 
-<ul class="posts-list list-unstyled" role="list">
-  {% for post in posts %}
-  {% if post.category != people %}
-  {% continue %}
-  {% endif %}
-  <li class="post-preview">
-    <article>
-
-      {%- capture thumbnail -%}
-        {% if post.thumbnail-img %}
-          {{ post.thumbnail-img }}
-        {% elsif post.cover-img %}
-          {% if post.cover-img.first %}
-            {{ post.cover-img[0].first.first }}
-          {% else %}
-            {{ post.cover-img }}
-          {% endif %}
-        {% else %}
-        {% endif %}
-      {% endcapture %}
-      {% assign thumbnail=thumbnail | strip %}
-
-      {% if site.feed_show_excerpt == false %}
-      {% if thumbnail != "" %}
-      <div class="post-image post-image-normal">
-        <a href="{{ post.url | absolute_url }}" aria-label="Thumbnail">
-          <img src="{{ thumbnail | absolute_url }}" alt="Post thumbnail">
-        </a>
-      </div>
-      {% endif %}
-      {% endif %}
-
-      <a href="{{ post.url | absolute_url }}">
-        <h2 class="post-title">{{ post.title | strip_html }}</h2>
-
-        {% if post.subtitle %}
-          <h3 class="post-subtitle">
-          {{ post.subtitle | strip_html }}
-          </h3>
-        {% endif %}
-      </a>
-
-      <p class="post-meta">
-        {% assign date_format = site.date_format | default: "%B %-d, %Y" %}
-        Posted on {{ post.date | date: date_format }}
-      </p>
-
-      {% if thumbnail != "" %}
-      <div class="post-image post-image-small">
-        <a href="{{ post.url | absolute_url }}" aria-label="Thumbnail">
-          <img src="{{ thumbnail | absolute_url }}" alt="Post thumbnail">
-        </a>
-      </div>
-      {% endif %}
-
-      {% unless site.feed_show_excerpt == false %}
-      {% if thumbnail != "" %}
-      <div class="post-image post-image-short">
-        <a href="{{ post.url | absolute_url }}" aria-label="Thumbnail">
-          <img src="{{ thumbnail | absolute_url }}" alt="Post thumbnail">
-        </a>
-      </div>
-      {% endif %}
-      {% endunless %}
-
-    </article>
-  </li>
-  {% endfor %}
-</ul>
-
-{% if paginator.total_pages > 1 %}
-<ul class="pagination main-pager">
-  {% if paginator.previous_page %}
-  <li class="page-item previous">
-    <a class="page-link" href="{{ paginator.previous_page_path | absolute_url }}">&larr; Newer Posts</a>
-  </li>
-  {% endif %}
-  {% if paginator.next_page %}
-  <li class="page-item next">
-    <a class="page-link" href="{{ paginator.next_page_path | absolute_url }}">Older Posts &rarr;</a>
-  </li>
-  {% endif %}
-</ul>
-{% endif %}
--->
 <div class=" container-md " role="main">
 <h2 id="contact-us">Contact us</h2>
 <ul>

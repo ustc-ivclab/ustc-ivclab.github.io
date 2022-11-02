@@ -3,7 +3,7 @@ title: A Cnn Based Image Compression Scheme Compatible With Jpeg 2000
 tags:
   - publication
   - learning-based
-  - image compression
+  - image-compression
 is_show_left: false
 is_show_right: true
 ---
