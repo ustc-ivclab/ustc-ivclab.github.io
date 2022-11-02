@@ -11,9 +11,11 @@ subtitle: Work hard, play harder!
 - Traditional image coding
 - Learning based image coding
 
+<!--
 ## Contact us
 
 - [:e-mail:](mailto:dongeliu@mail.ustc.edu.cn) dongeliu@mail.ustc.edu.cn,&emsp; [:e-mail:](mailto:lil1@ustc.edu.cn) lil1@ustc.edu.cn
 - [:office:](https://ustc.edu.cn/) Dept. EEIS, No. 443 Huangshan Road, Hefei,
   Anhui Province, China
 - [:mailbox_with_mail:](https://ustc.edu.cn/) 230027
+- -->

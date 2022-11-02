@@ -2,8 +2,7 @@
 cover-img: https://user-images.githubusercontent.com/116997215/198931441-e6a6d584-d1d7-4b5e-ae82-1db38ba92d4d.JPG
 thumbnail-img: https://user-images.githubusercontent.com/116997215/198931145-89393bb9-702a-44b2-9f9a-cd542c9179ca.JPG
 tags:
-  - activity
-  - senior
+  - entertainment
 is_show_left: false
 is_show_right: true
 ---

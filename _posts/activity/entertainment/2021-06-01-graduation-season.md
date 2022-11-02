@@ -2,10 +2,7 @@
 cover-img: https://user-images.githubusercontent.com/116997215/198930777-eb56c390-1906-4098-8873-e3ea9e96efe8.JPG
 thumbnail-img: https://user-images.githubusercontent.com/32936898/198894813-73eef13b-e4d3-406e-bb8d-ff9c5eee787b.jpg
 tags:
-  - activity
-  - senior
-  - academic
-  - news
+  - entertainment
 ---
 
 ## Photos
