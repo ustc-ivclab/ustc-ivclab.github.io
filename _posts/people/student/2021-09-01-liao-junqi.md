@@ -11,7 +11,7 @@ tags:
 ## Information
 
 - Chinese name: 廖峻骐
-- English name: junqi
+- English name: Felix
 - Interests: Gluttonous snake
 - Homepage: <https://blog.csdn.net/qq_43616471?type=blog>
 - Education experience:
