@@ -11,3 +11,9 @@ tags:
 ## Information
 
 - Chinese name: 董存辉
+- English name: Cunhui Dong
+- Interests: Movies
+- Homepage: <https://github.com/Dongcunhui>
+- Education experience:
+    - 2020.09 - present  &emsp;  M.S. candidate in University of Science and Technology of China
+    - 2016.09 - 2020.06  &emsp;  B.E. in University of Science and Technology of China

@@ -12,4 +12,8 @@ tags:
 
 - Chinese name: 康博威
 - English name: Terry
+- Interests: Badminton, calligraphy
 - Homepage: <https://space.bilibili.com/496508155>
+- Education experience:
+    - 2022.09 - present  &emsp;  M.S. candidate in University of Science and Technology of China
+    - 2018.09 - 2022.06  &emsp;  B.E. in University of Science and Technology of China

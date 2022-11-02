@@ -11,3 +11,9 @@ tags:
 ## Information
 
 - Chinese name: 杨闰宇
+- English name: Runyu Yang
+- Interests: Basketball
+- Homepage: <http://github.com/Yang-Runyu>
+- Education experience:
+    - 2019.09 - present  &emsp;  Ph.D. candidate in University of Science and Technology of China
+    - 2015.09 - 2019.06  &emsp;  B.E. in University of Science and Technology of China
