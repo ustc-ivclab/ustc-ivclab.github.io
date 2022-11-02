@@ -47,9 +47,12 @@ layout: page
       case 3:
       ul1.style.left = "-1260px";
           break;
+      case 4:
+      ul1.style.left = "-1680px";
+          break;
     }
     num++;
-    num = num %4;
+    num = num %5;
     } 
     var t2 = window.setInterval("cron_pic()",2500); 
 
@@ -68,10 +71,10 @@ layout: page
   
         <div class="bd">
           <div class="tempWrap" style="overflow:hidden; position:relative; width:420px">
-            <ul style="width: 1680px; position: relative; overflow: hidden; padding: 0px; margin: 0px; left: 0px;">
+            <ul style="width: 2100px; position: relative; overflow: hidden; padding: 0px; margin: 0px; left: 0px;">
         <!-- 开始 --> 
         {% for post in posts %}
-        {% if post.is_show_left == true %}
+        {% if post.is_show == true %}
 
         {%- capture thumbnail -%}
         {% if post.thumbnail-img %}
@@ -123,7 +126,7 @@ layout: page
 
           {% for post in posts %}
 
-          {% if post.is_show_right == true %}
+          {% if post.is_show == true %}
 
         <li>
               <span style="float:right">{% assign date_format = site.date_format | default: "%B %-d, %Y" %} {{ post.date | date: date_format }}</span>

@@ -1,7 +1,7 @@
 
 textarea{resize:none}
 
-a{text-decoration:none !important; color:#ba0000}
+a{text-decoration:none !important; color:#008AFF}
 
 a:hover{color:#ba0000}
 .clearfix:after,.clearfix:before{content:"";display:table}
@@ -103,7 +103,7 @@ a:hover{color:#ba0000}
 /*nav2 end*/
 
 
-.title{height:350px;background:url(../images/bann-bg.jpg) no-repeat top center}
+.title{height:350px;}
 
 .box{width:1004px;height:244px;margin:0 auto;position:relative; }
 .box img{ width:1004px; height:244px}
@@ -167,12 +167,7 @@ a:hover{color:#ba0000}
 .btn-wrap .u-btn:first-child{
     margin-top: 0;
 }
-.u-btn1{
-    background-image: url(../images/b1.png);
-}
-.u-btn2{
-    background-image: url(../images/b2.png);
-}
+
 .title .more{color:#cecece;font-size:14px}
 
 .title .more:hover{color:#ba0000}
@@ -247,7 +242,7 @@ a:hover{color:#ba0000}
 
 		/* 下面是前/后按钮代码，如果不需要删除即可 */
 		.slideBox .prev,
-		.slideBox .next{ position:absolute; left:3%; top:50%; margin-top:-25px; display:block; width:32px; height:40px; background:url(../images/slider-arrow.png) -110px 5px no-repeat; filter:alpha(opacity=80);opacity:0.8;   }
+		.slideBox .next{ position:absolute; left:3%; top:50%; margin-top:-25px; display:block; width:32px; height:40px; filter:alpha(opacity=80);opacity:0.8;   }
 		.slideBox .next{ left:auto; right:3%; background-position:8px 5px; }
 		.slideBox .prev:hover,
 		.slideBox .next:hover{ filter:alpha(opacity=100);opacity:1;  }

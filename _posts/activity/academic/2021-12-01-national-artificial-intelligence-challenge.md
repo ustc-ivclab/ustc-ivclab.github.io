@@ -3,8 +3,7 @@ cover-img: https://user-images.githubusercontent.com/32936898/198894353-b02e04e2
 thumbnail-img: https://user-images.githubusercontent.com/32936898/198894354-c4e8fc81-c9d9-4b20-9b32-01a8d0f9c8d2.jpg
 tags:
   - academic
-is_show_left: true
-is_show_right: false
+is_show: true
 ---
 
 ## Award

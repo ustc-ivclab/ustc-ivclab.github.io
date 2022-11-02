@@ -4,8 +4,6 @@ tags:
   - publication
   - learning-based
   - image compression
-is_show_left: false
-is_show_right: true
 ---
 
 ## Information
