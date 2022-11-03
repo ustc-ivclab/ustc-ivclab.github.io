@@ -11,7 +11,7 @@ tags:
 ## Information
 
 - Chinese name: 李杉杉
-- English name: Terry
+- English name: Shanshan Li
 - Interests: Chinese dance, ballet, music
 - Homepage: bilibili：33Aurora 小红书：是33🦆
 - Education experience:
