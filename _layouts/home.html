@@ -95,7 +95,9 @@ layout: page
       <li style="float: left; width: 420px;">
         <a href="{{ post.url | absolute_url }}" title="{{ post.title | strip_html }}" target="_blank">
           <img src="{{ thumbnail | absolute_url }}" style="background-image:url(images/content/2022-06/20220622081702935444.jpg); background-size:cover; background-position:center; background-repeat:no-repeat">
-          {{ post.title | strip_html }}, {% assign date_format = site.date_format | default: "%B %-d, %Y" %} {{ post.date | date: date_format }}
+
+              <dd class = "largetitle">{{ post.title | strip_html }}</dd>
+              <dd class = "datadesc">{% assign date_format = site.date_format | default: "%B %-d, %Y" %} {{ post.date | date: date_format }}</dd>
         </a>              
       </li>
 
