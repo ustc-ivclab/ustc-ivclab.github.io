@@ -15,5 +15,5 @@ tags:
 - Interests: Basketball ,badminton
 - Homepage: <https://github.com/chansongoal>
 - Education experience:
-    - 2017.09 - present  &emsp;  M.S. candidate in University of Science and Technology of China
+    - 2017.09 - present  &emsp;  Ph.D. candidate in University of Science and Technology of China
     - 2013.09 - 2017.06  &emsp;  B.E. in Anhui University
