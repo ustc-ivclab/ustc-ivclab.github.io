@@ -23,6 +23,7 @@ layout: page
     });
 
     </script>
+<!--
 <script>
     var num = 0;
 
@@ -57,22 +58,189 @@ layout: page
     var t2 = window.setInterval("cron_pic()",2500); 
 
   </script>
-
-
+-->
+<script>
+    window.onload = () => {
+    let list = document.getElementById('my_circle_pic');
+    let ol = document.getElementsByTagName('ol')[0];
+    let display = document.getElementById('slideBox');
+    let currentIndex = 0;
+    let autoPlay = () => {
+        window.autoPlay = true;
+        window.autoPlayTimer = setInterval(() => move((currentIndex + 1) % 5), 2000);
+    }
+    let stopPlay = () => {
+        if (window.autoPlay) {
+            window.autoPlay = false;
+            clearInterval(window.autoPlayTimer);
+        }
+    }
+    //创建索引按钮
+    for (let i = 0; i < 5; i++) {
+        let li = document.createElement('li');
+        li.textContent = String(i + 1);
+        li.className = 'index';
+        if (i == 0) li.className += ' current';
+        li.index = i;
+        ol.appendChild(li);
+        li.addEventListener('mouseover', function() {
+            move(this.index);
+            stopPlay();
+        });
+    }
+    let arrow = document.getElementById('arrow');
+    let showArrow = () => arrow.style.display = 'block';
+    let hideArrow = () => arrow.style.display = 'none';
+    //核心move函数
+    let move = (index) => {
+        let width = display.offsetWidth;
+        for (let i = 0; i < 5; i++) {
+            //改变当前索引按钮
+            if ((index % 5) === i) {
+                ol.children[i].className = 'index current';
+            } else ol.children[i].className = 'index';
+        }
+        //移动lists
+        list.style.left = (-index) * width + 'px';
+        currentIndex = index;
+    }
+    display.addEventListener('mouseover', showArrow)
+    display.addEventListener('mouseleave', () => {
+        hideArrow();
+        if (!window.autoPlay) {
+            //重新开始自动播放
+            autoPlay();
+        }
+    })
+    
+    let left = document.getElementById('left');
+    let right = document.getElementById('right');
+    left.addEventListener('click', () => {
+        move((currentIndex - 1) === -1 ? 4 : currentIndex - 1);
+        stopPlay();
+    });
+    right.addEventListener('click', () => {
+        move((currentIndex + 1) % 5);
+        stopPlay();
+    });
+ 
+    //启动自动播放
+    move(0);
+    autoPlay();
+}
+</script>
 	<!-- 主体 -->
-	
+  <style>
+    ul,
+    ol {
+        list-style: none;
+        padding: 0px;
+        margin: 0px;
+    }
+  
+    #main {
+        width: 600px;
+        height: 350px;
+        margin: 30px auto;
+        position: relative;
+    }
+  
+    #display {
+        width: 420px;
+        height: 230px;
+        overflow: hidden;
+        position: relative;
+        -webkit-user-select: none;
+    }
+  
+    #display ul {
+        position: relative;
+        left: 0;
+        top: 0px;
+        width: 3600px;
+        height: 230px;
+        transition: left 500ms linear;
+    }
+  
+    #list li {
+        float: left;
+        width: 420px;
+        height: 230px;
+    }
+  
+    #arrow {
+        display: none;
+    }
+  
+    #arrow span {
+        position: absolute;
+        width: 40px;
+        height: 40px;
+        line-height: 40px;
+        left: 5px;
+        top: 50%;
+        margin-top: -20px;
+        background: #000;
+        cursor: pointer;
+        text-align: center;
+        font-weight: bold;
+        font-family: 黑体, SimHei;
+        font-size: 30px;
+        color: #fff;
+        opacity: 0.4;
+        border: 1px solid #fff;
+        -webkit-user-select: none;
+    }
+  
+    #arrow span:hover {
+        opacity: 0.7;
+    }
+  
+    #arrow #right {
+        right: 5px;
+        left: auto;
+    }
+  
+    #index_container {
+        position: absolute;
+        width: 210px;
+        height: 30px;
+        right: 20px;
+        bottom: 50px;
+    }
+  
+    #index_container .index {
+        float: left;
+        width: 30px;
+        height: 30px;
+        line-height: 30px;
+        text-align: center;
+        opacity: 0.8;
+        background: #fff;
+        border: 1px solid #ccc;
+        margin-left: 10px;
+        cursor: pointer;
+        -webkit-user-select: none;
+    }
+  
+    #index_container .current {
+        background: #ec3d3d;
+    }
+  </style>
+  
+
   <div class="mainpart">
     <div class="container wrap clearfix">
     
       <div class="index-top">
         <h2 class="title"><span><em>N</em>ews</span><a href="pages/news" class="more">&gt;&gt;More</a></h2>
-        
+
         <div id="slideBox" class="slideBox">
   
         <div class="bd">
           <div class="tempWrap" style="overflow:hidden; position:relative; width:420px">
-            <ul style="width: 2100px; position: relative; overflow: hidden; padding: 0px; margin: 0px; left: 0px;">
-        <!-- 开始 --> 
+            <ul id = "my_circle_pic" style="width: 2100px; position: relative; overflow: hidden; padding: 0px; margin: 0px; left: 0px;">
+
         {% for post in posts %}
         {% if post.is_show == true %}
 
@@ -92,9 +260,10 @@ layout: page
 
       {% unless site.feed_show_excerpt == false %}
       {% if thumbnail != "" %}
+
       <li style="float: left; width: 420px;">
         <a href="{{ post.url | absolute_url }}" title="{{ post.title | strip_html }}" target="_blank">
-          <img src="{{ thumbnail | absolute_url }}" style="background-image:url(images/content/2022-06/20220622081702935444.jpg); background-size:cover; background-position:center; background-repeat:no-repeat">
+          <img src="{{ thumbnail | absolute_url }}">
 
               <dd class = "largetitle">{{ post.title | strip_html }}</dd>
               <dd class = "datadesc">{% assign date_format = site.date_format | default: "%B %-d, %Y" %} {{ post.date | date: date_format }}</dd>
@@ -108,18 +277,20 @@ layout: page
       {% endfor %}
 
 
-
-
            </ul></div>
 			</div>
 
-			<!-- 下面是前/后按钮代码，如果不需要删除即可 -->
-			<a class="prev" href="javascript:void(0)"></a>
-			<a class="next" href="javascript:void(0)"></a>
 
-		</div>
-        
-        <script type="text/javascript">
+      <ol id="index_container"></ol>
+      <div id="arrow">
+          <span id="left" title="前一张"><</span>
+          <span id="right" title="后一张">></span>
+      </div>
+
+    </div>
+
+
+    <script type="text/javascript">
 		jQuery(".slideBox").slide({mainCell:".bd ul",autoPlay:true,effect:"leftLoop",});
 		</script>
         
