@@ -46,9 +46,9 @@ jekyll-archives:
   enabled: all
 
 # jekyll-feed
-title: USTC IVCLab
+title: USTC iVC Lab
 author: ustc-ivclab
-description: Homepage for USTC IVCLab
+description: Homepage for USTC iVC Lab
 url: https://ustc-ivclab.github.io
 
 ###############################################
@@ -64,7 +64,7 @@ navbar-links:
   publications:
     - papers: tag/publication
     - patents: pages/patents
-  activity:
+  activities:
     - academic activities: tag/academic
     - entertainment: tag/entertainment
   services:
