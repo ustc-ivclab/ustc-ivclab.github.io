@@ -1,0 +1,53 @@
+---
+layout: page
+title: USTC IVCLab Papers
+---
+
+This is an incomplete list. For the complete list and details of citations, please refer to [Google Scholar](https://scholar.google.com/citations?user=lOWByxoAAAAJ&hl=en).
+
+# Journal papers
+
+- (Early Access) Shunxin Xu, Ke Sun, Dong Liu, Zhiwei Xiong, Zheng-Jun Zha. Synergy between semantic segmentation and image denoising via alternate boosting. ACM Transactions on Multimedia Computing, Communications, and Applications (TOMM). [DOI](https://doi.org/10.1145/3548459)
+- (Early Access) Haichuan Ma, Dong Liu, Feng Wu. Rectified Wasserstein generative adversarial networks for perceptual image restoration. IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI). [DOI]
+- (Early Access) Changsheng Gao, Dong Liu, Li Li, Feng Wu. Towards task-generic image compression: A study of semantics-oriented metrics. IEEE Transactions on Multimedia (TMM). [DOI]
+- Zeyuan Chen, Yifan Jiang, Dong Liu, Zhangyang Wang. CERL: A unified optimization framework for light enhancement with realistic noise. IEEE Transactions on Image Processing (TIP). vol 31, pp 4162-4172. [DOI]
+- Haichuan Ma, Dong Liu, Ning Yan, Houqiang Li, Feng Wu. End-to-end optimized versatile image compression with wavelet-like transform. IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI). vol 44, no 3, pp 1247-1263. [DOI]
+- Xusong Chen, Chenyi Lei, Dong Liu, Guoxin Wang, Haihong Tang, Zheng-Jun Zha, Houqiang Li. E-commerce storytelling recommendation using attentional domain-transfer network and adversarial pre-training. IEEE Transactions on Multimedia (TMM). vol 24, pp 506-518. [DOI]
+- Kun Yang, Dong Liu, Zhibo Chen, Feng Wu, Weiping Li. Spatiotemporal generative adversarial network-based dynamic texture synthesis for surveillance video coding. IEEE Transactions on Circuits and Systems for Video Technology (TCSVT). vol 32, no 1, pp 359-373. [DOI]
+- Kang Liu, Dong Liu, Li Li, Houqiang Li. Context-adaptive inverse quantization for inter-frame coding. IEEE Open Journal of Circuits and Systems (OJ-CAS). vol 2, pp 660-674. [DOI]
+- Ning Yan, Changsheng Gao, Dong Liu, Houqiang Li, Li Li, Feng Wu. SSSIC: Semantics-to-signal scalable image coding with learned structural representations. IEEE Transactions on Image Processing (TIP). vol 30, pp 8939-8954. [DOI]
+- Kang Liu, Dong Liu, Li Li, Ning Yan, Houqiang Li. Semantics-to-signal scalable image compression with learned revertible representations. International Journal of Computer Vision (IJCV). vol 129, no 9, pp 2605-2621. [DOI]
+- Yue Li, Yan Yi, Dong Liu, Li Li, Zhu Li, Houqiang Li. Neural-network-based cross-channel intra prediction. ACM Transactions on Multimedia Computing, Communications, and Applications (TOMM). vol 17, no 3, article no 77, pp 1-23. [DOI]
+- Shunxin Xu, Dong Liu, Zhiwei Xiong. E2I: Generative inpainting from edge to image. IEEE Transactions on Circuits and Systems for Video Technology (TCSVT). vol 31, no 4, pp 1308-1322. [DOI]
+- Yefei Wang, Dong Liu, Siwei Ma, Feng Wu, Wen Gao. Ensemble learning-based rate-distortion optimization for end-to-end image compression. IEEE Transactions on Circuits and Systems for Video Technology (TCSVT). vol 31, no 3, pp 1193-1207. [DOI]
+- Shuai Huo, Dong Liu, Bin Li, Siwei Ma, Feng Wu, Wen Gao. Deep network-based frame extrapolation with reference frame alignment. IEEE Transactions on Circuits and Systems for Video Technology (TCSVT). vol 31, no 3, pp 1178-1192. [DOI]
+- Xusong Chen, Dong Liu, Zhiwei Xiong, Zheng-Jun Zha. Learning and fusing multiple user interest representations for micro-video and movie recommendations. IEEE Transactions on Multimedia (TMM). vol 23, pp 484-496. [DOI]
+- Dong Liu, Ke Sun, Zhangyang Wang, Runsheng Liu, Zheng-Jun Zha. Frank-Wolfe network: An interpretable deep structure for non-sparse coding. IEEE Transactions on Circuits and Systems for Video Technology (TCSVT). vol 30, no 9, pp 3068-3080. [DOI]
+- Jiaying Liu, Dong Liu, Wenhan Yang, Sifeng Xia, Xiaoshuai Zhang, Yuanying Dai. A comprehensive benchmark for single image compression artifact reduction. IEEE Transactions on Image Processing (TIP). vol 29, pp 7845-7860. [DOI]
+- Haichuan Ma, Dong Liu, Ruiqin Xiong, Feng Wu. iWave: CNN-based wavelet-like transform for image compression. IEEE Transactions on Multimedia (TMM). vol 22, no 7, pp 1667-1679. [DOI]
+- Dong Liu, Zhenzhong Chen, Shan Liu, Feng Wu. Deep learning-based technology in responses to the joint call for proposals on video compression with capability beyond HEVC. IEEE Transactions on Circuits and Systems for Video Technology (TCSVT). vol 30, no 5, pp 1267-1280. [DOI]
+- Dong Liu, Yue Li, Jianping Lin, Houqiang Li, Feng Wu. Deep learning-based video coding: A review and a case study. ACM Computing Surveys. vol 53, no 1, article no 11, pp 1-35. [DOI]
+- Jianping Lin, Dong Liu, Haitao Yang, Houqiang Li, Feng Wu. Convolutional neural network-based block up-sampling for HEVC. IEEE Transactions on Circuits and Systems for Video Technology (TCSVT). vol 29, no 12, pp 3701-3715. [DOI]
+- Ning Yan, Dong Liu, Houqiang Li, Bin Li, Li Li, Feng Wu. Invertibility-driven interpolation filter for video coding. IEEE Transactions on Image Processing (TIP). vol 28, no 10, pp 4912-4925. [DOI]
+- Changyue Ma, Dong Liu, Xiulian Peng, Li Li, Feng Wu. Traffic surveillance video coding with libraries of vehicles and background. Journal of Visual Communication and Image Representation. vol 60, pp 426-440. [DOI]
+- Yue Li, Dong Liu, Houqiang Li, Li Li, Zhu Li, Feng Wu. Learning a convolutional neural network for image compact-resolution. IEEE Transactions on Image Processing (TIP). vol 28, no 3, pp 1092-1107. [DOI]
+- Ning Yan, Dong Liu, Houqiang Li, Bin Li, Li Li, Feng Wu. Convolutional neural network-based fractional-pixel motion compensation. IEEE Transactions on Circuits and Systems for Video Technology (TCSVT). vol 29, no 3, pp 840-853. [DOI]
+- Yefei Wang, Dong Liu, Siwei Ma, Feng Wu, Wen Gao. Spherical coordinates transform-based motion model for panoramic video coding. IEEE Journal on Emerging and Selected Topics in Circuits and Systems (JETCAS). vol 9, no 1, pp 98-109. [DOI]
+- Changyue Ma, Dong Liu, Xiulian Peng, Feng Wu, Houqiang Li, Tingting Wang. Reference clip for inter prediction in video coding. IEEE Transactions on Circuits and Systems for Video Technology (TCSVT). vol 29, no 1, pp 130-143. [DOI]
+- Yue Li, Dong Liu, Houqiang Li, Li Li, Feng Wu, Hong Zhang, Haitao Yang. Convolutional neural network-based block up-sampling for intra frame coding. IEEE Transactions on Circuits and Systems for Video Technology (TCSVT). vol 28, no 9, pp 2316-2330. [DOI]
+- Dong Liu, Xiaoyan Sun, Feng Wu, Shipeng Li, Ya-Qin Zhang. Image compression with edge-based inpainting. IEEE Transactions on Circuits and Systems for Video Technology (TCSVT). vol 17, no 10, pp 1273-1287. (2009 TCSVT Best Paper Award) [DOI]
+
+
+- 刘东, 冯傲林, 李礼. 图像划分方法和装置. 202210463095.5. 2022.04.29申请. 2022.09.09授权.
+- 刘东, 马海川, 吴枫. 一种模型训练方法、数据处理方法及相关设备. 202210321507.1. 2022.03.30申请. 2022.07.15授权.
+- 刘东, 杨闰宇, 吴枫. 一种基于知识蒸馏的图像压缩质量增强方法. 202110375987.5. 2021.04.08申请. 2022.07.15授权.
+- 刘东, 林建平, 李厚强, 吴枫. 一种基于神经网络的视频编码方法及系统. 202010305191.8. 2020.04.17申请. 2021.04.23授权.
+- 刘东, 张昊辰, 熊志伟. 一种视频超分辨率增强方法. 201910191471.8. 2019.03.13申请. 2020.06.26授权.
+- 刘东, 马常月, 吴枫, 彭秀莲. 交通监控视频编码方法. 201810720989.1. 2018.07.03申请. 2020.06.26授权.
+- 刘东, 吴仕林, 陈志波, 李厚强. 经纬图全景视频的质量评价方法. 201610916893.3. 2016.10.20申请. 2019.02.26授权.
+- 刘东, 王叶斐, 吴枫, 李厚强. 一种全景视频编码方法和装置. 201710294859.1. 2017.04.28申请. 2018.07.06授权.
+- 刘东, 郭磊, 吴枫. 基于层次化灵活块顺序的视频帧内编码方法. 201610902441.X. 2016.10.17申请. 2018.05.29授权.
+- 刘东, 李跃, 吴枫, 李厚强. 一种结合方向预测和块复制预测的视频帧内编码方法. 201610795564.8. 2016.08.31申请. 2018.04.10授权.
+- 刘东, 邵曈, 李厚强. 云环境下基于三维点云模型的图像预测方法、系统及装置. 201510130242.7. 2015.03.23申请. 2017.11.07授权.
+- Dong Liu, Wenwei Xue, Zhanjiang Song. Method and apparatus for context-based grouping. US 9,509,792.
+- Dong Liu, Hao Yang. Estimating the geographical position of an apparatus based on its proximity to other apparatuses. US 9,161,162.
