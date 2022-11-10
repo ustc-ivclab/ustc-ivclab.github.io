@@ -1,7 +1,7 @@
 ---
 title: CSIG Forum 2022 @ Guiyang
-cover-img: https://github.com/ustc-ivclab/ustc-ivclab.github.io/blob/main/pictures/activities/guiyang_3.png?raw=true
-thumbnail-img: https://github.com/ustc-ivclab/ustc-ivclab.github.io/blob/main/pictures/activities/guiyang_1.jpg?raw=true
+cover-img: https://github.com/ustc-ivclab/ustc-ivclab.github.io/blob/main/pictures/activities/guiyang_5.png?raw=true
+thumbnail-img: https://github.com/ustc-ivclab/ustc-ivclab.github.io/blob/main/pictures/activities/guiyang_3.png?raw=true
 tags:
   - academic
 is_show: true
