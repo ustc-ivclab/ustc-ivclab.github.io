@@ -13,7 +13,7 @@ tags:
 - Chinese name: 李卓元
 - English name: zhuoyuan
 - Interests: LOL, CF, PUBG
-- Homepage: (WeChat)ustc_crazy
+- Homepage: <https://github.com/ustc-milkbrother>
 - Education experience:
     - 2020.09 - present  &emsp;  M.S. candidate in University of Science and Technology of China
     - 2016.09 - 2020.06  &emsp;  B.E. in Southwest Jiaotong University
