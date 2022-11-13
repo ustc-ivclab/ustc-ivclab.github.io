@@ -11,5 +11,6 @@ tags:
 ## Information
 
 - Chinese name: 冯傲林
-- Homepage:
-- Scholar:
+- 毕业时间: 2022年6月
+- 导师: 刘东
+- 工作地点: 南加州大学
