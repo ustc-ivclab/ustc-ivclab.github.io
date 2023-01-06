@@ -4,8 +4,6 @@ title: Intelligent Visual Data Coding Laboratory, <br>University of Science and 
 subtitle: Work hard, Play harder!
 ---
 
-## About us
-
 Welcome to the homepage of iVC, Intelligent Visual Data Coding Laboratory. Our laboratory is affiliated with the University of Science and Technology of China (USTC), Hefei, China. Our laboratory is devoted to the research and development of visual data coding theory, methods, techniques, standards, and applications.
 
 Visual data include all the data that are or can be made visible to human eyes. We are interested in various kinds of visual data, including natural images and videos, biomedical images and videos, remote-sensing and aerospace images, point clouds, and the others.
