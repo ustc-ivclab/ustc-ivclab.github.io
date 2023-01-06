@@ -1,30 +1,29 @@
 ---
 layout: page
-title: USTC IVCLab Papers
+title: USTC iVC Lab Papers
 ---
-# Papers
-
-This is an incomplete list. For the complete list and details of citations, please refer to [Google Scholar](https://scholar.google.com/citations?user=lOWByxoAAAAJ&hl=en).
 
 ## Journal papers
-- (Early Access) Shunxin Xu, Ke Sun, Dong Liu, Zhiwei Xiong, Zheng-Jun Zha. Synergy between semantic segmentation and image denoising via alternate boosting. ACM Transactions on Multimedia Computing, Communications, and Applications (TOMM). [DOI](https://doi.org/10.1145/3548459)
+- (Early Access) Xihua Sheng, Jiahao Li, Bin Li, Li Li, Dong Liu, Yan Lu. Temporal context mining for learned video compression. IEEE Transactions on Multimedia (TMM). [DOI](https://doi.org/10.1109/TMM.2022.3220421)
+- (Early Access) Dongmei Xue, Haichuan Ma, Li Li, Dong Liu, Zhiwei Xiong. aiWave: Volumetric image compression with 3-D trained affine wavelet-like transform. IEEE Transactions on Medical Imaging (TMI). [DOI](https://doi.org/10.1109/TMI.2022.3212780)
 - (Early Access) Haichuan Ma, Dong Liu, Feng Wu. Rectified Wasserstein generative adversarial networks for perceptual image restoration. IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI). [DOI](https://doi.org/10.1109/TPAMI.2022.3185316)
 - (Early Access) Changsheng Gao, Dong Liu, Li Li, Feng Wu. Towards task-generic image compression: A study of semantics-oriented metrics. IEEE Transactions on Multimedia (TMM). [DOI](https://doi.org/10.1109/TMM.2021.3130754)
-- Zeyuan Chen, Yifan Jiang, Dong Liu, Zhangyang Wang. CERL: A unified optimization framework for light enhancement with realistic noise. IEEE Transactions on Image Processing (TIP). vol 31, pp 4162-4172. [DOI](https://doi.org/10.1109/TIP.2022.3180213)
+- Changsheng Gao, Li Li, Dong Liu, Zhibo Chen, Weiping Li, Feng Wu. Two-step fast mode decision for intra coding of screen content. IEEE Transactions on Circuits and Systems for Video Technology (TCSVT). vol 32, no 8, pp 5608-5622. [DOI](https://doi.org/10.1109/TCSVT.2022.3144424)
+- Xihua Sheng, Li Li, Dong Liu, Zhiwei Xiong. Attribute artifacts removal for geometry-based point cloud compression. IEEE Transactions on Image Processing (TIP). vol 31, pp 3399-3413. [DOI](https://doi.org/10.1109/TIP.2022.3170722)
+- Xihua Sheng, Li Li, Dong Liu, Zhiwei Xiong, Zhu Li, Feng Wu. Deep-PCAC: An end-to-end deep lossy compression framework for point cloud attributes. IEEE Transactions on Multimedia (TMM). vol 24, pp 2617-2632. [DOI](https://doi.org/10.1109/TMM.2021.3086711)
 - Haichuan Ma, Dong Liu, Ning Yan, Houqiang Li, Feng Wu. End-to-end optimized versatile image compression with wavelet-like transform. IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI). vol 44, no 3, pp 1247-1263. [DOI](https://doi.org/10.1109/TPAMI.2020.3026003)
-- Xusong Chen, Chenyi Lei, Dong Liu, Guoxin Wang, Haihong Tang, Zheng-Jun Zha, Houqiang Li. E-commerce storytelling recommendation using attentional domain-transfer network and adversarial pre-training. IEEE Transactions on Multimedia (TMM). vol 24, pp 506-518. [DOI](https://doi.org/10.1109/TMM.2021.3054525)
 - Kun Yang, Dong Liu, Zhibo Chen, Feng Wu, Weiping Li. Spatiotemporal generative adversarial network-based dynamic texture synthesis for surveillance video coding. IEEE Transactions on Circuits and Systems for Video Technology (TCSVT). vol 32, no 1, pp 359-373. [DOI](https://doi.org/10.1109/TCSVT.2021.3061153)
 - Kang Liu, Dong Liu, Li Li, Houqiang Li. Context-adaptive inverse quantization for inter-frame coding. IEEE Open Journal of Circuits and Systems (OJ-CAS). vol 2, pp 660-674. [DOI](https://doi.org/10.1109/OJCAS.2021.3125730)
 - Ning Yan, Changsheng Gao, Dong Liu, Houqiang Li, Li Li, Feng Wu. SSSIC: Semantics-to-signal scalable image coding with learned structural representations. IEEE Transactions on Image Processing (TIP). vol 30, pp 8939-8954. [DOI](https://doi.org/10.1109/TIP.2021.3121131)
 - Kang Liu, Dong Liu, Li Li, Ning Yan, Houqiang Li. Semantics-to-signal scalable image compression with learned revertible representations. International Journal of Computer Vision (IJCV). vol 129, no 9, pp 2605-2621. [DOI](https://doi.org/10.1007/s11263-021-01491-7)
 - Yue Li, Yan Yi, Dong Liu, Li Li, Zhu Li, Houqiang Li. Neural-network-based cross-channel intra prediction. ACM Transactions on Multimedia Computing, Communications, and Applications (TOMM). vol 17, no 3, article no 77, pp 1-23. [DOI](https://doi.org/10.1145/3434250)
-- Shunxin Xu, Dong Liu, Zhiwei Xiong. E2I: Generative inpainting from edge to image. IEEE Transactions on Circuits and Systems for Video Technology (TCSVT). vol 31, no 4, pp 1308-1322. [DOI](https://doi.org/10.1109/TCSVT.2020.3001267)
 - Yefei Wang, Dong Liu, Siwei Ma, Feng Wu, Wen Gao. Ensemble learning-based rate-distortion optimization for end-to-end image compression. IEEE Transactions on Circuits and Systems for Video Technology (TCSVT). vol 31, no 3, pp 1193-1207. [DOI](https://doi.org/10.1109/TCSVT.2020.3000331)
 - Shuai Huo, Dong Liu, Bin Li, Siwei Ma, Feng Wu, Wen Gao. Deep network-based frame extrapolation with reference frame alignment. IEEE Transactions on Circuits and Systems for Video Technology (TCSVT). vol 31, no 3, pp 1178-1192. [DOI](https://doi.org/10.1109/TCSVT.2020.2995243)
-- Xusong Chen, Dong Liu, Zhiwei Xiong, Zheng-Jun Zha. Learning and fusing multiple user interest representations for micro-video and movie recommendations. IEEE Transactions on Multimedia (TMM). vol 23, pp 484-496. [DOI](https://doi.org/10.1109/TMM.2020.2978618)
 - Dong Liu, Ke Sun, Zhangyang Wang, Runsheng Liu, Zheng-Jun Zha. Frank-Wolfe network: An interpretable deep structure for non-sparse coding. IEEE Transactions on Circuits and Systems for Video Technology (TCSVT). vol 30, no 9, pp 3068-3080. [DOI](https://doi.org/10.1109/TCSVT.2019.2936135)
+- Li Li, Zhu Li, Bin Li, Dong Liu, Houqiang Li. Quadtree-based coding framework for high-density camera array-based light field image. IEEE Transactions on Circuits and Systems for Video Technology (TCSVT). vol 30, no 8, pp 2694-2708. [DOI](https://doi.org/10.1109/TCSVT.2019.2924313)
 - Jiaying Liu, Dong Liu, Wenhan Yang, Sifeng Xia, Xiaoshuai Zhang, Yuanying Dai. A comprehensive benchmark for single image compression artifact reduction. IEEE Transactions on Image Processing (TIP). vol 29, pp 7845-7860. [DOI](https://doi.org/10.1109/TIP.2020.3007828)
 - Haichuan Ma, Dong Liu, Ruiqin Xiong, Feng Wu. iWave: CNN-based wavelet-like transform for image compression. IEEE Transactions on Multimedia (TMM). vol 22, no 7, pp 1667-1679. [DOI](https://doi.org/10.1109/TMM.2019.2957990)
+- Changyue Ma, Dong Liu, Xiulian Peng, Li Li, Feng Wu. Convolutional neural network-based arithmetic coding for HEVC intra-predicted residues. IEEE Transactions on Circuits and Systems for Video Technology (TCSVT). vol 30, no 7, pp 1901-1916. [DOI](https://doi.org/10.1109/TCSVT.2019.2927027)
 - Dong Liu, Zhenzhong Chen, Shan Liu, Feng Wu. Deep learning-based technology in responses to the joint call for proposals on video compression with capability beyond HEVC. IEEE Transactions on Circuits and Systems for Video Technology (TCSVT). vol 30, no 5, pp 1267-1280. [DOI](https://doi.org/10.1109/TCSVT.2019.2945057)
 - Dong Liu, Yue Li, Jianping Lin, Houqiang Li, Feng Wu. Deep learning-based video coding: A review and a case study. ACM Computing Surveys. vol 53, no 1, article no 11, pp 1-35. [DOI](https://doi.org/10.1145/3368405)
 - Jianping Lin, Dong Liu, Haitao Yang, Houqiang Li, Feng Wu. Convolutional neural network-based block up-sampling for HEVC. IEEE Transactions on Circuits and Systems for Video Technology (TCSVT). vol 29, no 12, pp 3701-3715. [DOI](https://doi.org/10.1109/TCSVT.2018.2884203)
@@ -35,30 +34,72 @@ This is an incomplete list. For the complete list and details of citations, plea
 - Yefei Wang, Dong Liu, Siwei Ma, Feng Wu, Wen Gao. Spherical coordinates transform-based motion model for panoramic video coding. IEEE Journal on Emerging and Selected Topics in Circuits and Systems (JETCAS). vol 9, no 1, pp 98-109. [DOI](https://doi.org/10.1109/JETCAS.2019.2896265)
 - Changyue Ma, Dong Liu, Xiulian Peng, Feng Wu, Houqiang Li, Tingting Wang. Reference clip for inter prediction in video coding. IEEE Transactions on Circuits and Systems for Video Technology (TCSVT). vol 29, no 1, pp 130-143. [DOI](https://doi.org/10.1109/TCSVT.2017.2769884)
 - Yue Li, Dong Liu, Houqiang Li, Li Li, Feng Wu, Hong Zhang, Haitao Yang. Convolutional neural network-based block up-sampling for intra frame coding. IEEE Transactions on Circuits and Systems for Video Technology (TCSVT). vol 28, no 9, pp 2316-2330. [DOI](https://doi.org/10.1109/TCSVT.2017.2727682)
-- Dong Liu, Xiaoyan Sun, Feng Wu, Shipeng Li, Ya-Qin Zhang. Image compression with edge-based inpainting. IEEE Transactions on Circuits and Systems for Video Technology (TCSVT). vol 17, no 10, pp 1273-1287. (<font color="red">2009 TCSVT Best Paper Award</font>) [DOI](http://dx.doi.org/10.1109/TCSVT.2007.903663)
-  
+- Li Li, Houqiang Li, Dong Liu, Zhu Li, Haitao Yang, Sixin Lin, Huanbang Chen, Feng Wu. An efficient four-parameter affine motion model for video coding. IEEE Transactions on Circuits and Systems for Video Technology (TCSVT). vol 28, no 8, pp 1934-1948. [DOI](https://doi.org/10.1109/TCSVT.2017.2699919)
+- Fangdong Chen, Houqiang Li, Li Li, Dong Liu, Feng Wu. Block-composed background reference for high efficiency video coding. IEEE Transactions on Circuits and Systems for Video Technology (TCSVT). vol 27, no 12, pp 2639-2651. [DOI](https://doi.org/10.1109/TCSVT.2016.2593599)
+- Li Li, Zhu Li, Bin Li, Dong Liu, Houqiang Li. Pseudo-sequence-based 2-D hierarchical coding structure for light-field image compression. IEEE Journal of Selected Topics in Signal Processing (J-STSP). vol 11, no 7, pp 1107-1119. [DOI](https://doi.org/10.1109/JSTSP.2017.2725198)
+- Dong Liu, Dandan Wang, Houqiang Li. Recognizable or not: Towards image semantic quality assessment for compression. Sensing and Imaging. vol 18, no 1, pp 1-20. [DOI](https://doi.org/10.1007/s11220-016-0152-5)
+- Li Li, Bin Li, Dong Liu, Houqiang Li. λ-domain rate control algorithm for HEVC scalable extension. IEEE Transactions on Multimedia (TMM). vol 18, no 10, pp 2023-2039. [DOI](https://doi.org/10.1109/TMM.2016.2595264)
+- Dong Liu, Xiaoyan Sun, Feng Wu. Inpainting with image patches for compression. Journal of Visual Communication and Image Representation. vol 23, no 1, pp 100-113. [DOI](https://doi.org/10.1016/j.jvcir.2011.09.001)
+- Dong Liu, Xiaoyan Sun, Feng Wu, Ya-Qin Zhang. Edge-oriented uniform intra prediction. IEEE Transactions on Image Processing (TIP). vol 17, no 10, pp 1827-1836. [DOI](https://doi.org/10.1109/TIP.2008.2002835)
+- Dong Liu, Xiaoyan Sun, Feng Wu, Shipeng Li, Ya-Qin Zhang. Image compression with edge-based inpainting. IEEE Transactions on Circuits and Systems for Video Technology (TCSVT). vol 17, no 10, pp 1273-1287. (<font color="red">2009 TCSVT Best Paper Award</font>) [DOI](https://doi.org/10.1109/TCSVT.2007.903663)
+- 贾川民, 马海川, 杨文瀚, 任文琦, 潘金山, 刘东, 刘家瑛, 马思伟. 视频处理与压缩技术. 中国图象图形学报. 26卷, 6期, 1179-1200页.
+- 刘东, 王叶斐, 林建平, 马海川, 杨闰宇. 端到端优化的图像压缩技术进展. 计算机科学. 48卷, 3期, 1-8页.
+- 刘东, 吴枫. 视频编码技术发展与趋势. 中国计算机学会通讯. 12卷, 6期, 20-23页.
+
 ## Conference papers
 
-- Cunhui Dong, Haichuan Ma, Dong Liu, John W. Woods. Wavelet-based learned scalable video coding. ISCAS. pp 3190-3194. Hybrid (Austin, TX, USA). May 28-Jun 1, 2022. (<font color="red">ISCAS Grand Challenge Top Creativity Award</font>) DOI
-- Ziqiu Zhang, Changyue Ma, Dong Liu, Li Li, Feng Wu. Improving VVC intra coding via probability estimation and fusion of multiple prediction modes. ICIG. pp 654-664. Haikou, China. Dec 26-28, 2021. [DOI](https://doi.org/10.1007/978-3-030-87355-4_54)
-- Yunan Zhu, Haichuan Ma, Jialun Peng, Dong Liu, Zhiwei Xiong. Recycling discriminator: Towards opinion-unaware image quality assessment using Wasserstein GAN. MM. pp 116-125. Chengdu, China. Oct 20-24, 2021. [DOI](https://doi.org/10.1145/3474085.3479234)
-- Jianping Lin, Dong Liu, Jie Liang, Houqiang Li, Feng Wu. A deeply modulated scheme for variable-rate video compression. ICIP. pp 3722-3726. Online. Sep 19-22, 2021. [DOI](https://doi.org/10.1109/ICIP42928.2021.9506269)
-- Runyu Yang, Dong Liu, Siwei Ma, Feng Wu, Wen Gao. Knowledge distillation from end-to-end image compression to VVC intra coding for perceptual quality enhancement. ICIP. pp 3438-3442. Online. Sep 19-22, 2021. [DOI](https://doi.org/10.1109/ICIP42928.2021.9506765)
-- Aolin Feng, Changsheng Gao, Li Li, Dong Liu, Feng Wu. CNN-based depth map prediction for fast block partitioning in HEVC intra coding. ICME. pp 1-6. Online. Jul 5-9, 2021. [DOI](https://doi.org/10.1109/ICME51207.2021.9428069)
-- Jialun Peng, Dong Liu, Songcen Xu, Houqiang Li. Generating diverse structure for image inpainting with hierarchical VQ-VAE. CVPR. pp 10770-10779. Online. Jun 19-25, 2021. [OpenAccess](https://openaccess.thecvf.com/content/CVPR2021/html/Peng_Generating_Diverse_Structure_for_Image_Inpainting_With_Hierarchical_VQ-VAE_CVPR_2021_paper.html)
-- Zeyuan Chen, Yangchao Wang, Yang Yang, Dong Liu. PSD: Principled synthetic-to-real dehazing guided by physical priors. CVPR. pp 7176-7185. Online. Jun 19-25, 2021. [OpenAccess](https://openaccess.thecvf.com/content/CVPR2021/html/Chen_PSD_Principled_Synthetic-to-Real_Dehazing_Guided_by_Physical_Priors_CVPR_2021_paper.html)
-- Hengrui Zhao, Dong Liu, Houqiang Li. Efficient integer-arithmetic-only convolutional networks with bounded ReLU. ISCAS. pp 1-5. Online. May 22-28, 2021. [DOI](https://doi.org/10.1109/ISCAS51556.2021.9401448)
-- Kun Yang, Dong Liu, Feng Wu. Deep learning-based nonlinear transform for HEVC intra coding. VCIP. pp 387-390. Online. Dec 1-4, 2020. [DOI](https://doi.org/10.1109/VCIP49819.2020.9301790)
-- Haichuan Ma, Dong Liu, Feng Wu. Improving compression artifact reduction via end-to-end learning of side information. VCIP. pp 403-406. Online. Dec 1-4, 2020. [DOI](https://doi.org/10.1109/VCIP49819.2020.9301805)
-- Ning Yan, Dong Liu, Houqiang Li, Feng Wu, Zhiwei Xiong, Zheng-Jun Zha. Towards semantically scalable image coding using semantic map. ISCAS. pp 1-5. Online. Oct 10-21, 2020. [DOI](https://doi.org/10.1109/ISCAS45731.2020.9180529)
-- Meng Dong, Dong Liu, Zhiwei Xiong, Xuejin Chen, Yueyi Zhang, Zheng-Jun Zha, Guoqiang Bi, Feng Wu. Towards neuron segmentation from macaque brain images: A weakly supervised approach. MICCAI. pp 194-203. Online. Oct 4-8, 2020. [DOI](https://doi.org/10.1007/978-3-030-59722-1_19)
-- Joya Chen, Qi Wu, Dong Liu, Tong Xu. Foreground-background imbalance problem in deep object detectors: A review. MIPR. pp 285-290. Online. Aug 6-8, 2020. [DOI](https://doi.org/10.1109/MIPR49039.2020.00066)
-- Jianping Lin, Dong Liu, Houqiang Li, Feng Wu. M-LVC: Multiple frames prediction for learned video compression. CVPR. pp 3546-3554. Online. Jun 14-19, 2020. [OpenAccess](http://openaccess.thecvf.com/content_CVPR_2020/html/Lin_M-LVC_Multiple_Frames_Prediction_for_Learned_Video_Compression_CVPR_2020_paper.html)
-- Changyue Ma, Dong Liu, Li Li, Yao Wang, Feng Wu. Convolutional neural network-based coefficients prediction for HEVC intra-predicted residues. DCC. pp 183-192. Online. Mar 24-27, 2020. [DOI](https://doi.org/10.1109/DCC47342.2020.00026)
-- Chenyi Lei, Lei Wu, Dong Liu, Zhao Li, Guoxin Wang, Haihong Tang, Houqiang Li. Multi-question learning for visual question answering. AAAI. New York, NY, USA. Feb 7-12, 2020. [OpenAccess](https://doi.org/10.1609/aaai.v34i07.6794)
-- Xusong Chen, Dong Liu, Chenyi Lei, Rui Li, Zheng-Jun Zha, Zhiwei Xiong. BERT4SessRec: Content-based video relevance prediction with bidirectional encoder representations from transformer. MM. pp 2597-2601. Nice, France. Oct 21-25, 2019. (<font color="red">Winner of the Content-Based Video Relevance Prediction Challenge</font>) [DOI](https://doi.org/10.1145/3343031.3356051)
-- Xusong Chen, Rui Zhao, Shengjie Ma, Dong Liu, Zheng-Jun Zha. Content-based video relevance prediction with second-order relevance and attention modeling. MM. pp 2018-2022. Seoul, Korea. Oct 22-26, 2018. (<font color="red">Winner of the Content-Based Video Relevance Prediction Challenge</font>) [DOI](https://doi.org/10.1145/3240508.3266434)
-- Zhan Shi, Chang Chen, Zhiwei Xiong, Dong Liu, Zheng-Jun Zha, Feng Wu. Deep residual attention network for spectral image super-resolution. ECCVW. pp 214-229. Munich, Germany. Sep 8-14, 2018. (<font color="red">Winner of PIRM Challenge on Spectral Image Super Resolution</font>) [DOI](https://doi.org/10.1007/978-3-030-11021-5_14)
-- Zhan Shi, Chang Chen, Zhiwei Xiong, Dong Liu, Feng Wu. HSCNN+: Advanced CNN-based hyperspectral recovery from RGB images. CVPRW. pp 1052-1060. Salt Lake City, UT, USA. Jun 18-22, 2018. (<font color="red">Winner of NTIRE 2018 Challenge on Spectral Reconstruction from RGB Images</font>) [OpenAccess](http://openaccess.thecvf.com/content_cvpr_2018_workshops/w13/html/Shi_HSCNN_Advanced_CNN-Based_CVPR_2018_paper.html)
-- Lei Guo, Dong Liu, Li Li, Feng Wu. Hierarchical quadtree-based flexible block ordering in HEVC intra coding. VCIP. pp 1-4. Chengdu, China. Nov 27-30, 2016. (<font color="red">VCIP 2016 Best 10% Paper Award</font>) [DOI](http://doi.org/10.1109/VCIP.2016.7805486)
-- Dong Liu, Lizhi Wang, Li Li, Zhiwei Xiong, Feng Wu, Wenjun Zeng. Pseudo-sequence-based light field image compression. ICMEW. pp 1-4. Seattle, WA, USA. Jul 11-15, 2016. (<font color="red">Winner of Grand Challenge on Light-Field Image Compression</font>) [DOI](http://dx.doi.org/10.1109/ICMEW.2016.7574674)
+- Yao Li, Zhuoyuan Li, Li Li, Dong Liu, Houqiang Li. Global homography motion compensation for Versatile Video Coding. VCIP 2022
+- Cunhui Dong, Haichuan Ma, Dong Liu, John W. Woods. Wavelet-based learned scalable video coding. ISCAS 2022 (<font color="red">ISCAS Grand Challenge Top Creativity Award</font>)
+- Shanshan Li, Li Li, Dong Liu, Houqiang Li. Spatially scalable video-based point cloud compression. ISCAS 2022
+- Ziqiu Zhang, Changyue Ma, Dong Liu, Li Li, Feng Wu. Improving VVC intra coding via probability estimation and fusion of multiple prediction modes. ICIG 2021
+- Dongmei Xue, Haichuan Ma, Li Li, Dong Liu, Zhiwei Xiong. iWave3D: End-to-end brain image compression with trainable 3-D wavelet transform. VCIP 2021
+- Jianping Lin, Dong Liu, Jie Liang, Houqiang Li, Feng Wu. A deeply modulated scheme for variable-rate video compression. ICIP 2021
+- Runyu Yang, Dong Liu, Siwei Ma, Feng Wu, Wen Gao. Knowledge distillation from end-to-end image compression to VVC intra coding for perceptual quality enhancement. ICIP 2021
+- Aolin Feng, Changsheng Gao, Li Li, Dong Liu, Feng Wu. CNN-based depth map prediction for fast block partitioning in HEVC intra coding. ICME 2021
+- Hengrui Zhao, Dong Liu, Houqiang Li. Efficient integer-arithmetic-only convolutional networks with bounded ReLU. ISCAS 2021
+- Jianping Lin, Dong Liu, Jie Liang, Houqiang Li, Feng Wu. Modulated variable-rate deep video compression. DCC 2021
+- Haichuan Ma, Dong Liu, Feng Wu. Improving compression artifact reduction via end-to-end learning of side information. VCIP 2020
+- Kun Yang, Dong Liu, Feng Wu. Deep learning-based nonlinear transform for HEVC intra coding. VCIP 2020
+- Runyu Yang, Ning Yan, Li Li, Dong Liu, Feng Wu. Chain code-based occupancy map coding for video-based point cloud compression. VCIP 2020
+- Shuo Gao, Yueyi Zhang, Dong Liu, Zhiwei Xiong. Volumetric end-to-end optimized compression for brain images. VCIP 2020
+- Ning Yan, Dong Liu, Houqiang Li, Feng Wu. Semantically scalable image coding with compression of feature maps. ICIP 2020
+- Ning Yan, Dong Liu, Houqiang Li, Feng Wu, Zhiwei Xiong, Zheng-Jun Zha. Towards semantically scalable image coding using semantic map. ISCAS 2020
+- Jianping Lin, Mohammad Akbari, Haisheng Fu, Qian Zhang, Shang Wang, Jie Liang, Dong Liu, Feng Liang, Guohe Zhang, Chengjie Tu. Learned variable-rate multi-frequency image compression using modulated generalized octave convolution. MMSP 2020
+- Jianping Lin, Dong Liu, Houqiang Li, Feng Wu. M-LVC: Multiple frames prediction for learned video compression. CVPR 2020
+- Yueyu Hu, Haichuan Ma, Dong Liu, Jiaying Liu. Compression artifact removal with ensemble learning of neural networks. CVPRW 2020
+- Changyue Ma, Dong Liu, Li Li, Yao Wang, Feng Wu. Convolutional neural network-based coefficients prediction for HEVC intra-predicted residues. DCC 2020
+- Haichuan Ma, Dong Liu, Ruiqin Xiong, Feng Wu. A CNN-based image compression scheme compatible with JPEG2000. ICIP 2019
+- Changyue Ma, Dong Liu, Xiulian Peng, Zheng-Jun Zha, Feng Wu. Neural network-based arithmetic coding for inter prediction information in HEVC. ISCAS 2019
+- Jianping Lin, Dong Liu, Houqiang Li, Feng Wu. Generative adversarial network-based frame extrapolation for video coding. VCIP 2018
+- Kang Liu, Dong Liu, Houqiang Li, Feng Wu. Convolutional neural network-based residue super-resolution for video coding. VCIP 2018
+- Yuanying Dai, Dong Liu, Zheng-Jun Zha, Feng Wu. A CNN-based in-loop filter with CU classification for HEVC. VCIP 2018
+- Ning Yan, Dong Liu, Bin Li, Houqiang Li, Tong Xu, Feng Wu. Convolutional neural network-based invertible half-pixel interpolation filter for video coding. ICIP 2018
+- Yue Li, Li Li, Zhu Li, Jianchao Yang, Ning Xu, Dong Liu, Houqiang Li. A hybrid neural network for chroma intra prediction. ICIP 2018
+- Changyue Ma, Dong Liu, Xiulian Peng, Feng Wu. Convolutional neural network-based arithmetic coding of DC coefficients for HEVC intra coding. ICIP 2018
+- Dong Liu, Zhenxin Zhang, Fangdong Chen, Houqiang Li, Feng Wu. Reflectance reference for intra-frame coding of surveillance video. PCM 2018
+- Shuai Huo, Dong Liu, Feng Wu, Houqiang Li. Convolutional neural network-based motion compensation refinement for video coding. ISCAS 2018
+- Dong Liu, Haichuan Ma, Zhiwei Xiong, Feng Wu. CNN-based DCT-like transform for image compression. MMM 2018
+- Wei Zhang, Dong Liu, Zhiwei Xiong, Jizheng Xu. SIFT-based adaptive prediction structure for light field compression. VCIP 2017
+- Rui Song, Dong Liu, Houqiang Li, Feng Wu. Neural network-based arithmetic coding of intra prediction modes in HEVC. VCIP 2017
+- Ye Li, Bin Li, Dong Liu, Zhibo Chen. A convolutional neural network-based approach to rate control in HEVC intra coding. VCIP 2017
+- Fangdong Chen, Dong Liu, Houqiang Li, Feng Wu. Fast encoding of surveillance videos based on HEVC. VCIP 2017
+- Qingyu Zhang, Dong Liu, Houqiang Li. Deep network-based image coding for simultaneous compression and retrieval. ICIP 2017
+- Yefei Wang, Li Li, Dong Liu, Feng Wu, Wen Gao. A new motion model for panoramic video coding. ICIP 2017
+- Kun Yang, Fangdong Chen, Dong Liu, Zhibo Chen, Weiping Li. Surveillance video coding with dynamic textural background detection. ICIP 2017
+- Changyue Ma, Dong Liu, Xiulian Peng, Feng Wu. Surveillance video coding with vehicle library. ICIP 2017
+- Ning Yan, Dong Liu, Houqiang Li, Feng Wu. A convolutional neural network approach for half-pel interpolation in video coding. ISCAS 2017
+- Li Li, Zhu Li, Bin Li, Dong Liu, Houqiang Li. Pseudo sequence based 2-D hierarchical coding structure for light-ﬁeld image compression. DCC 2017
+- Yuanying Dai, Dong Liu, Feng Wu. A convolutional neural network approach for post-processing in HEVC intra coding. MMM 2017
+- Lei Guo, Dong Liu, Li Li, Feng Wu. Hierarchical quadtree-based flexible block ordering in HEVC intra coding. VCIP 2016 (<font color="red">VCIP 2016 Best 10% Paper Award</font>)
+- Yue Li, Li Li, Dong Liu, Houqiang Li, Feng Wu. Combining directional intra prediction and intra block copy with block partition for HEVC. ICIP 2016
+- Dong Liu, Lizhi Wang, Li Li, Zhiwei Xiong, Feng Wu, Wenjun Zeng. Pseudo-sequence-based light field image compression. ICMEW 2016 (<font color="red">Winner of Grand Challenge on Light-Field Image Compression</font>)
+- Fangdong Chen, Li Li, Dong Liu, Houqiang Li, Zhuoyi Lv, Haitao Yang. Efficient background picture coding for videos obtained from static cameras. VCIP 2015
+- Dandan Wang, Dong Liu, Fangdong Chen. Image semantic quality assessment for compression of car-plate images. VCIP 2015
+- Tong Shao, Dong Liu, Houqiang Li. Inter-picture prediction based on 3D point cloud model. ICIP 2015
+- Dong Liu, Tong Shao, Houqiang Li, Feng Wu. Three-dimensional point-cloud plus patches: Towards model-based image coding in the cloud. BigMM 2015
+- Dandan Wang, Dong Liu. SIFT-preserving compression of mobile-captured license plate images for recognition. WCSP 2014
+- Dong Liu, Xiaoyan Sun, Feng Wu. Improving inverse wavelet transform by compressive sensing decoding with deconvolution. DCC 2009
+- Dong Liu, Xiaoyan Sun, Feng Wu. Manipulating image patches for compression. ICME 2008
+- Dong Liu, Xiaoyan Sun, Feng Wu. Intra prediction via edge-based inpainting. DCC 2008
+- Dong Liu, Xiaoyan Sun, Feng Wu. Edge-based inpainting and texture synthesis for image compression. ICME 2007
+- Dong Liu, Wenpeng Ding, Yuwen He, Feng Wu. Quality-biased rate allocation for compound image coding with block classification. ISCAS 2006

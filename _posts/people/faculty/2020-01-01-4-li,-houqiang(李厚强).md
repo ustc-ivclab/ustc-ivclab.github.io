@@ -1,14 +1,12 @@
 ---
-title: Li, Houqiang(李厚强)
+title: Li, Houqiang (李厚强)
 category: people
 tags:
   - faculty
 ---
 
 ## Photo
-
-
-![李厚强](http://staff.ustc.edu.cn/~lihq/assets/images/main_400x300.jpg)
+![LiHouqiang](http://staff.ustc.edu.cn/~lihq/assets/images/main_400x300.jpg)
 
 
 ## Information

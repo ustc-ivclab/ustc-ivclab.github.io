@@ -3,25 +3,16 @@ tags:
   - resources
 ---
 
-This is a list of recent publications regarding deep learning-based image and
-video compression. This list is maintained by us.
+This is a list of recent publications regarding deep learning-based visual data compression. The list is maintained by our laboratory, and was last updated on September 16, 2022 by
+[Mr. Yanchen Zuo](/people/2020/09/01/zuo,-yanchen.html) and [Ms. Hang Chen](people/2021/09/01/chen,-hang.html).
 
-Last updated on September 16, 2022 by
-[Mr. Yanchen Zuo](/people/2020/09/01/zuo-yancheng) and Ms. Hang Chen.
+The list only includes newer publications. Older publications have been included in some overview papers listed below, and do not appear in the following.
 
-Note that this list only includes newer publications. Older publications have
-been included in some overview papers listed below, and do not appear in the
-following.
-
-If you feel that a publication shall be included into this list, please kindly
-write to [Prof. Dong Liu](/people/2020/09/01/liu-dong.html). We are grateful to
-that.
+If you feel that a publication shall be included into this list, please kindly write to [Prof. Dong Liu](mailto:dongeliu@ustc.edu.cn). We are grateful to that.
 
 ## Publications
 
-Most of the listed publications come from top-tier journals and prestigious
-conferences. These journals and conferences, as well as the numbers of
-publications included in this list, as summarized below.
+Most of the listed publications come from top-tier journals and prestigious conferences. These journals and conferences, as well as the numbers of publications included in this list, as summarized below.
 
 ### Journals
 
