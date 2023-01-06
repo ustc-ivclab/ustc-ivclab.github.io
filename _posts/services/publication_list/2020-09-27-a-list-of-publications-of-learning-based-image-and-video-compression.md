@@ -4,7 +4,7 @@ tags:
 ---
 
 This is a list of recent publications regarding deep learning-based visual data compression. The list is maintained by our laboratory, and was last updated on September 16, 2022 by
-[Mr. Yanchen Zuo](/people/2020/09/01/zuo,-yanchen.html) and [Ms. Hang Chen](people/2021/09/01/chen,-hang.html).
+[Mr. Yanchen Zuo](/people/2020/09/01/zuo,-yanchen.html) and [Ms. Hang Chen](/people/2021/09/01/chen,-hang.html).
 
 The list only includes newer publications. Older publications have been included in some overview papers listed below, and do not appear in the following.
 
