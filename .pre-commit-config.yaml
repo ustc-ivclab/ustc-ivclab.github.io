@@ -19,6 +19,6 @@ repos:
       - id: check-toml
       - id: check-json
   - repo: https://github.com/Lucas-C/pre-commit-hooks
-    rev: v1.3.1
+    rev: v1.4.2
     hooks:
       - id: remove-crlf
