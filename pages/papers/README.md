@@ -6,8 +6,8 @@ title: USTC iVC Lab Papers
 ## Journal papers
 - (Early Access) Xihua Sheng, Jiahao Li, Bin Li, Li Li, Dong Liu, Yan Lu. Temporal context mining for learned video compression. IEEE Transactions on Multimedia (TMM). [DOI](https://doi.org/10.1109/TMM.2022.3220421)
 - (Early Access) Dongmei Xue, Haichuan Ma, Li Li, Dong Liu, Zhiwei Xiong. aiWave: Volumetric image compression with 3-D trained affine wavelet-like transform. IEEE Transactions on Medical Imaging (TMI). [DOI](https://doi.org/10.1109/TMI.2022.3212780)
-- (Early Access) Haichuan Ma, Dong Liu, Feng Wu. Rectified Wasserstein generative adversarial networks for perceptual image restoration. IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI). [DOI](https://doi.org/10.1109/TPAMI.2022.3185316)
 - (Early Access) Changsheng Gao, Dong Liu, Li Li, Feng Wu. Towards task-generic image compression: A study of semantics-oriented metrics. IEEE Transactions on Multimedia (TMM). [DOI](https://doi.org/10.1109/TMM.2021.3130754)
+- Haichuan Ma, Dong Liu, Feng Wu. Rectified Wasserstein generative adversarial networks for perceptual image restoration. IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI). vol 45, no 3, pp 3648-3663. [DOI](https://doi.org/10.1109/TPAMI.2022.3185316)
 - Changsheng Gao, Li Li, Dong Liu, Zhibo Chen, Weiping Li, Feng Wu. Two-step fast mode decision for intra coding of screen content. IEEE Transactions on Circuits and Systems for Video Technology (TCSVT). vol 32, no 8, pp 5608-5622. [DOI](https://doi.org/10.1109/TCSVT.2022.3144424)
 - Xihua Sheng, Li Li, Dong Liu, Zhiwei Xiong. Attribute artifacts removal for geometry-based point cloud compression. IEEE Transactions on Image Processing (TIP). vol 31, pp 3399-3413. [DOI](https://doi.org/10.1109/TIP.2022.3170722)
 - Xihua Sheng, Li Li, Dong Liu, Zhiwei Xiong, Zhu Li, Feng Wu. Deep-PCAC: An end-to-end deep lossy compression framework for point cloud attributes. IEEE Transactions on Multimedia (TMM). vol 24, pp 2617-2632. [DOI](https://doi.org/10.1109/TMM.2021.3086711)
@@ -39,9 +39,6 @@ title: USTC iVC Lab Papers
 - Li Li, Zhu Li, Bin Li, Dong Liu, Houqiang Li. Pseudo-sequence-based 2-D hierarchical coding structure for light-field image compression. IEEE Journal of Selected Topics in Signal Processing (J-STSP). vol 11, no 7, pp 1107-1119. [DOI](https://doi.org/10.1109/JSTSP.2017.2725198)
 - Dong Liu, Dandan Wang, Houqiang Li. Recognizable or not: Towards image semantic quality assessment for compression. Sensing and Imaging. vol 18, no 1, pp 1-20. [DOI](https://doi.org/10.1007/s11220-016-0152-5)
 - Li Li, Bin Li, Dong Liu, Houqiang Li. λ-domain rate control algorithm for HEVC scalable extension. IEEE Transactions on Multimedia (TMM). vol 18, no 10, pp 2023-2039. [DOI](https://doi.org/10.1109/TMM.2016.2595264)
-- Dong Liu, Xiaoyan Sun, Feng Wu. Inpainting with image patches for compression. Journal of Visual Communication and Image Representation. vol 23, no 1, pp 100-113. [DOI](https://doi.org/10.1016/j.jvcir.2011.09.001)
-- Dong Liu, Xiaoyan Sun, Feng Wu, Ya-Qin Zhang. Edge-oriented uniform intra prediction. IEEE Transactions on Image Processing (TIP). vol 17, no 10, pp 1827-1836. [DOI](https://doi.org/10.1109/TIP.2008.2002835)
-- Dong Liu, Xiaoyan Sun, Feng Wu, Shipeng Li, Ya-Qin Zhang. Image compression with edge-based inpainting. IEEE Transactions on Circuits and Systems for Video Technology (TCSVT). vol 17, no 10, pp 1273-1287. (<font color="red">2009 TCSVT Best Paper Award</font>) [DOI](https://doi.org/10.1109/TCSVT.2007.903663)
 - 贾川民, 马海川, 杨文瀚, 任文琦, 潘金山, 刘东, 刘家瑛, 马思伟. 视频处理与压缩技术. 中国图象图形学报. 26卷, 6期, 1179-1200页.
 - 刘东, 王叶斐, 林建平, 马海川, 杨闰宇. 端到端优化的图像压缩技术进展. 计算机科学. 48卷, 3期, 1-8页.
 - 刘东, 吴枫. 视频编码技术发展与趋势. 中国计算机学会通讯. 12卷, 6期, 20-23页.
@@ -98,8 +95,3 @@ title: USTC iVC Lab Papers
 - Tong Shao, Dong Liu, Houqiang Li. Inter-picture prediction based on 3D point cloud model. ICIP 2015
 - Dong Liu, Tong Shao, Houqiang Li, Feng Wu. Three-dimensional point-cloud plus patches: Towards model-based image coding in the cloud. BigMM 2015
 - Dandan Wang, Dong Liu. SIFT-preserving compression of mobile-captured license plate images for recognition. WCSP 2014
-- Dong Liu, Xiaoyan Sun, Feng Wu. Improving inverse wavelet transform by compressive sensing decoding with deconvolution. DCC 2009
-- Dong Liu, Xiaoyan Sun, Feng Wu. Manipulating image patches for compression. ICME 2008
-- Dong Liu, Xiaoyan Sun, Feng Wu. Intra prediction via edge-based inpainting. DCC 2008
-- Dong Liu, Xiaoyan Sun, Feng Wu. Edge-based inpainting and texture synthesis for image compression. ICME 2007
-- Dong Liu, Wenpeng Ding, Yuwen He, Feng Wu. Quality-biased rate allocation for compound image coding with block classification. ISCAS 2006
