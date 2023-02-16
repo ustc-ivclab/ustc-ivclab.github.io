@@ -15,5 +15,5 @@ tags:
 - Interests: Rock, folk
 - Homepage: <https://github.com/xdmustc>
 - Education experience:
-    - 2020.09 - present  &emsp;  Ph.D. candidate in University of Science and Technology of China
-    - 2016.09 - 2020.06  &emsp;  B.E. in Shandong University
+  - 2020.09 - present     Ph.D. candidate in University of Science and Technology of China
+  - 2016.09 - 2020.06     B.E. in Shandong University

@@ -6,11 +6,12 @@ tags:
 ---
 
 ## Photo
+
 ![LiHouqiang](http://staff.ustc.edu.cn/~lihq/assets/images/main_400x300.jpg)
 
-
 ## Information
-Houqiang Li (S’12, F’21) received the B.S., M.Eng., and Ph.D. degrees in electronic engineering from the University of Science and Technology of China, Hefei, China, in 1992, 1997, and 2000, respectively, where he is currently a Professor with the Department of Electronic Engineering and Information Science. 
+
+Houqiang Li (S’12, F’21) received the B.S., M.Eng., and Ph.D. degrees in electronic engineering from the University of Science and Technology of China, Hefei, China, in 1992, 1997, and 2000, respectively, where he is currently a Professor with the Department of Electronic Engineering and Information Science.
 
 His research interests include image/video coding, image/video analysis, computer vision, reinforcement learning, etc. He has authored and co-authored over 200 papers in journals and conferences. He is the winner of National Science Funds (NSFC) for Distinguished Young Scientists, the Distinguished Professor of Changjiang Scholars Program of China, and the Leading Scientist of Ten Thousand Talent Program of China.
 

@@ -15,5 +15,5 @@ tags:
 - Interests: Bilibili
 - Homepage: <https://www.neuralcodec.com>
 - Education experience:
-    - 2019.09 - present  &emsp;  Ph.D. candidate in University of Science and Technology of China
-    - 2015.09 - 2019.06  &emsp;  B.E. in Northeastern University
+  - 2019.09 - present     Ph.D. candidate in University of Science and Technology of China
+  - 2015.09 - 2019.06     B.E. in Northeastern University

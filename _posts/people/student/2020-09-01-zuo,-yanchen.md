@@ -15,5 +15,5 @@ tags:
 - Interests: Play cards and chess, LOL
 - Homepage: WeChat: zuoyanchen123
 - Education experience:
-    - 2020.09 - present  &emsp;  M.S. candidate in University of Science and Technology of China
-    - 2016.09 - 2020.06  &emsp;  B.E. in Nanjing Agricultural University
+  - 2020.09 - present     M.S. candidate in University of Science and Technology of China
+  - 2016.09 - 2020.06     B.E. in Nanjing Agricultural University

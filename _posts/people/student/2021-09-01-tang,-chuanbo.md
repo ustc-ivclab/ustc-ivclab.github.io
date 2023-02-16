@@ -15,5 +15,5 @@ tags:
 - Interests: Basketball, gluttonous snake , and movies
 - Homepage: <https://github.com/Austin4USTC>
 - Education experience:
-    - 2021.09 - present  &emsp;  M.S. candidate in University of Science and Technology of China
-    - 2017.09 - 2021.06  &emsp;  B.E. in Hefei University of Technology
+  - 2021.09 - present     M.S. candidate in University of Science and Technology of China
+  - 2017.09 - 2021.06     B.E. in Hefei University of Technology

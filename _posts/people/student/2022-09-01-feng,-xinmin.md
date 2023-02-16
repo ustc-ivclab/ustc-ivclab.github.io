@@ -6,7 +6,7 @@ tags:
 
 ## Photo
 
-![profile](https://github.com/ustc-ivclab/ustc-ivclab.github.io/blob/main/pictures/people/fengxinmin.jpg?raw=true)
+![profile](https://user-images.githubusercontent.com/32936898/219268872-ee3f681d-17b7-48b0-8c3c-e21a96b3b284.jpg)
 
 ## Information
 
@@ -15,5 +15,5 @@ tags:
 - Interests: Novel
 - Homepage: <https://blog.csdn.net/weixin_43721070>
 - Education experience:
-    - 2022.09 - present  &emsp;  M.S. candidate in University of Science and Technology of China
-    - 2018.09 - 2022.06  &emsp;  B.E. in Xidian University
+  - 2022.09 - present     M.S. candidate in University of Science and Technology of China
+  - 2018.09 - 2022.06     B.E. in Xidian University

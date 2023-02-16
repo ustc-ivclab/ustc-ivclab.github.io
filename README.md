@@ -55,6 +55,7 @@ For windows:
 pacman -S pactoys
 pacboy -S gcc:x ruby:x libxslt:x
 gem install nokogiri -- --use-system-libraries
+bundle config set --local path .bundle
 bundle install
 bundle exec jekyll s
 ```

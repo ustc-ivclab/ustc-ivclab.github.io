@@ -15,5 +15,5 @@ tags:
 - Interests: LOL, CF, PUBG
 - Homepage: <https://github.com/ustc-milkbrother>
 - Education experience:
-    - 2020.09 - present  &emsp;  M.S. candidate in University of Science and Technology of China
-    - 2016.09 - 2020.06  &emsp;  B.E. in Southwest Jiaotong University
+  - 2020.09 - present     M.S. candidate in University of Science and Technology of China
+  - 2016.09 - 2020.06     B.E. in Southwest Jiaotong University

@@ -4,6 +4,7 @@ title: USTC iVC Lab Papers
 ---
 
 ## Journal papers
+
 - (Early Access) Xihua Sheng, Jiahao Li, Bin Li, Li Li, Dong Liu, Yan Lu. Temporal context mining for learned video compression. IEEE Transactions on Multimedia (TMM). [DOI](https://doi.org/10.1109/TMM.2022.3220421)
 - (Early Access) Dongmei Xue, Haichuan Ma, Li Li, Dong Liu, Zhiwei Xiong. aiWave: Volumetric image compression with 3-D trained affine wavelet-like transform. IEEE Transactions on Medical Imaging (TMI). [DOI](https://doi.org/10.1109/TMI.2022.3212780)
 - (Early Access) Changsheng Gao, Dong Liu, Li Li, Feng Wu. Towards task-generic image compression: A study of semantics-oriented metrics. IEEE Transactions on Multimedia (TMM). [DOI](https://doi.org/10.1109/TMM.2021.3130754)
@@ -46,7 +47,7 @@ title: USTC iVC Lab Papers
 ## Conference papers
 
 - Yao Li, Zhuoyuan Li, Li Li, Dong Liu, Houqiang Li. Global homography motion compensation for Versatile Video Coding. VCIP 2022
-- Cunhui Dong, Haichuan Ma, Dong Liu, John W. Woods. Wavelet-based learned scalable video coding. ISCAS 2022 (<font color="red">ISCAS Grand Challenge Top Creativity Award</font>)
+- Cunhui Dong, Haichuan Ma, Dong Liu, John W. Woods. Wavelet-based learned scalable video coding. ISCAS 2022 (ISCAS Grand Challenge Top Creativity Award)
 - Shanshan Li, Li Li, Dong Liu, Houqiang Li. Spatially scalable video-based point cloud compression. ISCAS 2022
 - Ziqiu Zhang, Changyue Ma, Dong Liu, Li Li, Feng Wu. Improving VVC intra coding via probability estimation and fusion of multiple prediction modes. ICIG 2021
 - Dongmei Xue, Haichuan Ma, Li Li, Dong Liu, Zhiwei Xiong. iWave3D: End-to-end brain image compression with trainable 3-D wavelet transform. VCIP 2021
@@ -62,36 +63,36 @@ title: USTC iVC Lab Papers
 - Ning Yan, Dong Liu, Houqiang Li, Feng Wu. Semantically scalable image coding with compression of feature maps. ICIP 2020
 - Ning Yan, Dong Liu, Houqiang Li, Feng Wu, Zhiwei Xiong, Zheng-Jun Zha. Towards semantically scalable image coding using semantic map. ISCAS 2020
 - Jianping Lin, Mohammad Akbari, Haisheng Fu, Qian Zhang, Shang Wang, Jie Liang, Dong Liu, Feng Liang, Guohe Zhang, Chengjie Tu. Learned variable-rate multi-frequency image compression using modulated generalized octave convolution. MMSP 2020
-- Jianping Lin, Dong Liu, Houqiang Li, Feng Wu. M-LVC: Multiple frames prediction for learned video compression. CVPR 2020
+- Jianping Lin, Dong Liu, Houqiang Li, Feng Wu. M-LVC: Multiple frames prediction for learned video compression. CVPR 2020
 - Yueyu Hu, Haichuan Ma, Dong Liu, Jiaying Liu. Compression artifact removal with ensemble learning of neural networks. CVPRW 2020
 - Changyue Ma, Dong Liu, Li Li, Yao Wang, Feng Wu. Convolutional neural network-based coefficients prediction for HEVC intra-predicted residues. DCC 2020
 - Haichuan Ma, Dong Liu, Ruiqin Xiong, Feng Wu. A CNN-based image compression scheme compatible with JPEG2000. ICIP 2019
 - Changyue Ma, Dong Liu, Xiulian Peng, Zheng-Jun Zha, Feng Wu. Neural network-based arithmetic coding for inter prediction information in HEVC. ISCAS 2019
-- Jianping Lin, Dong Liu, Houqiang Li, Feng Wu. Generative adversarial network-based frame extrapolation for video coding. VCIP 2018
-- Kang Liu, Dong Liu, Houqiang Li, Feng Wu. Convolutional neural network-based residue super-resolution for video coding. VCIP 2018
-- Yuanying Dai, Dong Liu, Zheng-Jun Zha, Feng Wu. A CNN-based in-loop filter with CU classification for HEVC. VCIP 2018
-- Ning Yan, Dong Liu, Bin Li, Houqiang Li, Tong Xu, Feng Wu. Convolutional neural network-based invertible half-pixel interpolation filter for video coding. ICIP 2018
-- Yue Li, Li Li, Zhu Li, Jianchao Yang, Ning Xu, Dong Liu, Houqiang Li. A hybrid neural network for chroma intra prediction. ICIP 2018
-- Changyue Ma, Dong Liu, Xiulian Peng, Feng Wu. Convolutional neural network-based arithmetic coding of DC coefficients for HEVC intra coding. ICIP 2018
+- Jianping Lin, Dong Liu, Houqiang Li, Feng Wu. Generative adversarial network-based frame extrapolation for video coding. VCIP 2018
+- Kang Liu, Dong Liu, Houqiang Li, Feng Wu. Convolutional neural network-based residue super-resolution for video coding. VCIP 2018
+- Yuanying Dai, Dong Liu, Zheng-Jun Zha, Feng Wu. A CNN-based in-loop filter with CU classification for HEVC. VCIP 2018
+- Ning Yan, Dong Liu, Bin Li, Houqiang Li, Tong Xu, Feng Wu. Convolutional neural network-based invertible half-pixel interpolation filter for video coding. ICIP 2018
+- Yue Li, Li Li, Zhu Li, Jianchao Yang, Ning Xu, Dong Liu, Houqiang Li. A hybrid neural network for chroma intra prediction. ICIP 2018
+- Changyue Ma, Dong Liu, Xiulian Peng, Feng Wu. Convolutional neural network-based arithmetic coding of DC coefficients for HEVC intra coding. ICIP 2018
 - Dong Liu, Zhenxin Zhang, Fangdong Chen, Houqiang Li, Feng Wu. Reflectance reference for intra-frame coding of surveillance video. PCM 2018
-- Shuai Huo, Dong Liu, Feng Wu, Houqiang Li. Convolutional neural network-based motion compensation refinement for video coding. ISCAS 2018
+- Shuai Huo, Dong Liu, Feng Wu, Houqiang Li. Convolutional neural network-based motion compensation refinement for video coding. ISCAS 2018
 - Dong Liu, Haichuan Ma, Zhiwei Xiong, Feng Wu. CNN-based DCT-like transform for image compression. MMM 2018
-- Wei Zhang, Dong Liu, Zhiwei Xiong, Jizheng Xu. SIFT-based adaptive prediction structure for light field compression. VCIP 2017
-- Rui Song, Dong Liu, Houqiang Li, Feng Wu. Neural network-based arithmetic coding of intra prediction modes in HEVC. VCIP 2017
-- Ye Li, Bin Li, Dong Liu, Zhibo Chen. A convolutional neural network-based approach to rate control in HEVC intra coding. VCIP 2017
-- Fangdong Chen, Dong Liu, Houqiang Li, Feng Wu. Fast encoding of surveillance videos based on HEVC. VCIP 2017
-- Qingyu Zhang, Dong Liu, Houqiang Li. Deep network-based image coding for simultaneous compression and retrieval. ICIP 2017
-- Yefei Wang, Li Li, Dong Liu, Feng Wu, Wen Gao. A new motion model for panoramic video coding. ICIP 2017
-- Kun Yang, Fangdong Chen, Dong Liu, Zhibo Chen, Weiping Li. Surveillance video coding with dynamic textural background detection. ICIP 2017
-- Changyue Ma, Dong Liu, Xiulian Peng, Feng Wu. Surveillance video coding with vehicle library. ICIP 2017
-- Ning Yan, Dong Liu, Houqiang Li, Feng Wu. A convolutional neural network approach for half-pel interpolation in video coding. ISCAS 2017
-- Li Li, Zhu Li, Bin Li, Dong Liu, Houqiang Li. Pseudo sequence based 2-D hierarchical coding structure for light-ﬁeld image compression. DCC 2017
-- Yuanying Dai, Dong Liu, Feng Wu. A convolutional neural network approach for post-processing in HEVC intra coding. MMM 2017
-- Lei Guo, Dong Liu, Li Li, Feng Wu. Hierarchical quadtree-based flexible block ordering in HEVC intra coding. VCIP 2016 (<font color="red">VCIP 2016 Best 10% Paper Award</font>)
-- Yue Li, Li Li, Dong Liu, Houqiang Li, Feng Wu. Combining directional intra prediction and intra block copy with block partition for HEVC. ICIP 2016
-- Dong Liu, Lizhi Wang, Li Li, Zhiwei Xiong, Feng Wu, Wenjun Zeng. Pseudo-sequence-based light field image compression. ICMEW 2016 (<font color="red">Winner of Grand Challenge on Light-Field Image Compression</font>)
-- Fangdong Chen, Li Li, Dong Liu, Houqiang Li, Zhuoyi Lv, Haitao Yang. Efficient background picture coding for videos obtained from static cameras. VCIP 2015
-- Dandan Wang, Dong Liu, Fangdong Chen. Image semantic quality assessment for compression of car-plate images. VCIP 2015
-- Tong Shao, Dong Liu, Houqiang Li. Inter-picture prediction based on 3D point cloud model. ICIP 2015
+- Wei Zhang, Dong Liu, Zhiwei Xiong, Jizheng Xu. SIFT-based adaptive prediction structure for light field compression. VCIP 2017
+- Rui Song, Dong Liu, Houqiang Li, Feng Wu. Neural network-based arithmetic coding of intra prediction modes in HEVC. VCIP 2017
+- Ye Li, Bin Li, Dong Liu, Zhibo Chen. A convolutional neural network-based approach to rate control in HEVC intra coding. VCIP 2017
+- Fangdong Chen, Dong Liu, Houqiang Li, Feng Wu. Fast encoding of surveillance videos based on HEVC. VCIP 2017
+- Qingyu Zhang, Dong Liu, Houqiang Li. Deep network-based image coding for simultaneous compression and retrieval. ICIP 2017
+- Yefei Wang, Li Li, Dong Liu, Feng Wu, Wen Gao. A new motion model for panoramic video coding. ICIP 2017
+- Kun Yang, Fangdong Chen, Dong Liu, Zhibo Chen, Weiping Li. Surveillance video coding with dynamic textural background detection. ICIP 2017
+- Changyue Ma, Dong Liu, Xiulian Peng, Feng Wu. Surveillance video coding with vehicle library. ICIP 2017
+- Ning Yan, Dong Liu, Houqiang Li, Feng Wu. A convolutional neural network approach for half-pel interpolation in video coding. ISCAS 2017
+- Li Li, Zhu Li, Bin Li, Dong Liu, Houqiang Li. Pseudo sequence based 2-D hierarchical coding structure for light-ﬁeld image compression. DCC 2017
+- Yuanying Dai, Dong Liu, Feng Wu. A convolutional neural network approach for post-processing in HEVC intra coding. MMM 2017
+- Lei Guo, Dong Liu, Li Li, Feng Wu. Hierarchical quadtree-based flexible block ordering in HEVC intra coding. VCIP 2016 (VCIP 2016 Best 10% Paper Award)
+- Yue Li, Li Li, Dong Liu, Houqiang Li, Feng Wu. Combining directional intra prediction and intra block copy with block partition for HEVC. ICIP 2016
+- Dong Liu, Lizhi Wang, Li Li, Zhiwei Xiong, Feng Wu, Wenjun Zeng. Pseudo-sequence-based light field image compression. ICMEW 2016 (Winner of Grand Challenge on Light-Field Image Compression)
+- Fangdong Chen, Li Li, Dong Liu, Houqiang Li, Zhuoyi Lv, Haitao Yang. Efficient background picture coding for videos obtained from static cameras. VCIP 2015
+- Dandan Wang, Dong Liu, Fangdong Chen. Image semantic quality assessment for compression of car-plate images. VCIP 2015
+- Tong Shao, Dong Liu, Houqiang Li. Inter-picture prediction based on 3D point cloud model. ICIP 2015
 - Dong Liu, Tong Shao, Houqiang Li, Feng Wu. Three-dimensional point-cloud plus patches: Towards model-based image coding in the cloud. BigMM 2015
-- Dandan Wang, Dong Liu. SIFT-preserving compression of mobile-captured license plate images for recognition. WCSP 2014
+- Dandan Wang, Dong Liu. SIFT-preserving compression of mobile-captured license plate images for recognition. WCSP 2014

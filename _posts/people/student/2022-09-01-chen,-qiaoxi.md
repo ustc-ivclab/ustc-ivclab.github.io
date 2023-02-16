@@ -15,5 +15,5 @@ tags:
 - Interests: Piano, chess
 - Homepage: <https://github.com/xxii111>
 - Education experience:
-    - 2022.09 - present  &emsp;  M.S. candidate in University of Science and Technology of China
-    - 2018.09 - 2022.06  &emsp;  B.E. in Wuhan University
+  - 2022.09 - present     M.S. candidate in University of Science and Technology of China
+  - 2018.09 - 2022.06     B.E. in Wuhan University

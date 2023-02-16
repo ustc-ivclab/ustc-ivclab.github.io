@@ -15,5 +15,5 @@ tags:
 - Interests: Be a pig
 - Homepage: <https://github.com/Zeay-ZZY>, 王者荣耀微信区ID：将心予明月
 - Education experience:
-    - 2020.09 - present  &emsp;  M.S. candidate in University of Science and Technology of China
-    - 2016.09 - 2020.06  &emsp;  B.E. in University of Science and Technology of China
+  - 2020.09 - present     M.S. candidate in University of Science and Technology of China
+  - 2016.09 - 2020.06     B.E. in University of Science and Technology of China
