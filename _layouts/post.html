@@ -66,15 +66,38 @@ layout: base
       {% endif %}
 
       <ul class="pagination blog-pager">
-        {% if page.previous.url %}
-        <li class="page-item previous">
-          <a class="page-link" href="{{ page.previous.url | relative_url }}" data-toggle="tooltip" data-placement="top" title="{{page.previous.title | strip_html | xml_escape}}">&larr; Previous Post</a>
-        </li>
-        {% endif %}
-        {% if page.next.url %}
-        <li class="page-item next">
-          <a class="page-link" href="{{ page.next.url | relative_url }}" data-toggle="tooltip" data-placement="top" title="{{page.next.title | strip_html | xml_escape}}">Next Post &rarr;</a>
-        </li>
+        {% if page.order %}
+          {% assign previous = page.order | minus: 1 %}
+          {% assign next = page.order | plus: 1 %}
+          {% for post in site.posts %}
+            {% assign order = post.order | to_i %}
+            {% if order == previous %}
+              <li class="page-item previous">
+                <a class="page-link" href="{{ post.url | relative_url }}" data-toggle="tooltip" data-placement="top" title="{{post.title | strip_html | xml_escape}}">&larr; Previous Post</a>
+              </li>
+              {% break %}
+            {% endif %}
+          {% endfor %}
+          {% for post in site.posts %}
+            {% assign order = post.order | to_i %}
+            {% if order == next %}
+              <li class="page-item next">
+                <a class="page-link" href="{{ post.url | relative_url }}" data-toggle="tooltip" data-placement="top" title="{{post.title | strip_html | xml_escape}}">Next Post &rarr;</a>
+              </li>
+              {% break %}
+            {% endif %}
+          {% endfor %}
+        {% else %}
+          {% if page.previous.url %}
+          <li class="page-item previous">
+            <a class="page-link" href="{{ page.previous.url | relative_url }}" data-toggle="tooltip" data-placement="top" title="{{page.previous.title | strip_html | xml_escape}}">&larr; Previous Post</a>
+          </li>
+          {% endif %}
+          {% if page.next.url %}
+          <li class="page-item next">
+            <a class="page-link" href="{{ page.next.url | relative_url }}" data-toggle="tooltip" data-placement="top" title="{{page.next.title | strip_html | xml_escape}}">Next Post &rarr;</a>
+          </li>
+          {% endif %}
         {% endif %}
       </ul>
       {% include comments.html %}

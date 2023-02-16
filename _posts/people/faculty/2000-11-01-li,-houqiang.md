@@ -1,4 +1,5 @@
 ---
+order: 2
 title: Li, Houqiang (李厚强)
 category: people
 tags:
