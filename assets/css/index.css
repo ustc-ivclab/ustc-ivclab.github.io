@@ -32,9 +32,9 @@ a:hover{color:#ba0000}
 
 :-ms-input-placeholder{color:#bcb8b8}
 
-.search .kw{width:300px;height:30px;border:1px solid #ccc;padding-left:15px;background-color:#f5f5f5;margin-left: 36px;border-radius:10px; -moz-border-radius:10px; -webkit-border-radius:10px;}
+/* .search .kw{width:300px;height:30px;border:1px solid #ccc;padding-left:15px;background-color:#f5f5f5;margin-left: 36px;border-radius:10px; -moz-border-radius:10px; -webkit-border-radius:10px;} */
 
-.search .s-bt{width:51px;height:32px; float:right; background:url(../images/search.png) no-repeat;cursor:pointer;vertical-align:middle;margin-top:5px}
+/* .search .s-bt{width:51px;height:32px; float:right; background:url(../images/search.png) no-repeat;cursor:pointer;vertical-align:middle;margin-top:5px} */
 
 .nav-bar{background:url(../images/scrollbg2.jpg) repeat-x bottom left; background-color:#eee;height:48px; border-bottom:3px solid #94070a;position: relative;
   z-index: 15;}
@@ -43,7 +43,7 @@ a:hover{color:#ba0000}
 
 .nav-cont li a{color:#333;di height:46px;line-height:46px;display:block;font-size:16px;width:120px;text-align:center;border-right:1px solid #CCC;border-top:1px solid #fff;border-bottom:1px solid #CCC;border-left:1px solid #fff}
 
-.nav-cont li a span{display:inline-block;width:9px;height:9px;background:url(../images/trang.png) no-repeat;vertical-align:middle;transition:all .5s ease-in 0s; margin-left:5px}
+/* .nav-cont li a span{display:inline-block;width:9px;height:9px;background:url(../images/trang.png) no-repeat;vertical-align:middle;transition:all .5s ease-in 0s; margin-left:5px} */
 
 .nav-cont li a:hover,.nav-cont li a.on{background-color:#94070a; color:#fff;border-right:1px solid #7d010b;border-top:1px solid #b30210;border-bottom:1px solid #7d010b;border-left:1px solid #b30210}
 
@@ -255,8 +255,8 @@ a:hover{color:#ba0000}
         .slideBox .datadesc{float: right;font-family:Georgia;font-size:12px;color:#a9a9a9}
 
 		.entab{ height:30px; overflow:hidden; border-bottom:1px solid #ba0000}
-		.entab a{ float:left; height:30px; line-height:30px; font-size:14px; font-weight:bold; color:#333; background:url(../images/entabbg0.png) bottom right no-repeat; padding:0px 20px 0px 10px;}
-		.entab a.on,.entab a:hover{ background:url(../images/entabbg1.png) bottom right no-repeat; color:#fff}
+		/* .entab a{ float:left; height:30px; line-height:30px; font-size:14px; font-weight:bold; color:#333; background:url(../images/entabbg0.png) bottom right no-repeat; padding:0px 20px 0px 10px;} */
+		/* .entab a.on,.entab a:hover{ background:url(../images/entabbg1.png) bottom right no-repeat; color:#fff} */
 		.encontbox{ background:#fff; width:100%; padding-top:20px; padding-bottom:20px; filter:alpha(opacity=80);
       -moz-opacity:0.8;
       -khtml-opacity: 0.8;

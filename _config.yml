@@ -60,7 +60,6 @@ navbar-links:
     - faculty: tag/faculty
     - students: tag/student
     - alumni: tag/alumni
-  # introduction: introduction/profile
   publications:
     - papers: pages/papers
     - patents: pages/patents
@@ -74,7 +73,6 @@ navbar-links:
   #tags: tag
 
 ## navbar-links:
-##   introduction: introduction/profile
 ##   publications:
 ##     - papers: tag/publication
 ##     - patents: tag/publication

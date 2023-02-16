@@ -1,6 +1,6 @@
-[submodule "introduction"]
-	path = introduction
-	url = https://github.com/ustc-ivclab/.github
 [submodule "_includes/jekyll-toc"]
 	path = _includes/jekyll-toc
 	url = https://github.com/allejo/jekyll-toc
+[submodule "ustc-ivclab"]
+	path = ustc-ivclab
+	url = https://github.com/ustc-ivclab/.github

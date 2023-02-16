@@ -73,7 +73,7 @@ layout: base
             {% assign order = post.order | to_i %}
             {% if order == previous %}
               <li class="page-item previous">
-                <a class="page-link" href="{{ post.url | relative_url }}" data-toggle="tooltip" data-placement="top" title="{{post.title | strip_html | xml_escape}}">&larr; Previous Post</a>
+                <a class="page-link" href="{{ post.url | relative_url }}" data-toggle="tooltip" data-placement="top" title="{{post.title | strip_html | xml_escape}}">&larr; Previous Faculty</a>
               </li>
               {% break %}
             {% endif %}
@@ -82,7 +82,7 @@ layout: base
             {% assign order = post.order | to_i %}
             {% if order == next %}
               <li class="page-item next">
-                <a class="page-link" href="{{ post.url | relative_url }}" data-toggle="tooltip" data-placement="top" title="{{post.title | strip_html | xml_escape}}">Next Post &rarr;</a>
+                <a class="page-link" href="{{ post.url | relative_url }}" data-toggle="tooltip" data-placement="top" title="{{post.title | strip_html | xml_escape}}">Next Faculty &rarr;</a>
               </li>
               {% break %}
             {% endif %}
