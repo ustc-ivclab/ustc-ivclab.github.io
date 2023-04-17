@@ -7,7 +7,7 @@ is_show: true
 ---
 
 
-## Title:IVC Lab Students Shine in Second "Revival Cup" Basketball Tournament, Securing Second Place
+## IVC Lab Students Shine in Second "Revival Cup" Basketball Tournament, Securing Second Place
 
 
 Four students from IVC Laboratory recently participated in the second "Revival Cup" basketball tournament and achieved remarkable success. Gao Changsheng, Sheng Xihua, Li Zhuoyuan, and Tang Chuanbo not only secured second place in the competition but also exhibited outstanding skills and teamwork.
