@@ -6,7 +6,7 @@ tags:
 
 ## Photo
 
-![马海川](https://user-images.githubusercontent.com/116997215/201503038-61470640-1ae5-472b-b320-4439e3154192.jpg)
+![马海川_v1](https://user-images.githubusercontent.com/116997215/233303741-d46baea8-c54b-4115-ad95-792154ae89dc.jpg)
 
 ## Information
 
