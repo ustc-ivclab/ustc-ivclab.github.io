@@ -1,7 +1,7 @@
 ---
 title: 2023 Apr. Team Building
 cover-img: https://user-images.githubusercontent.com/116997215/233303064-0431e44e-08de-4869-9028-9676f2872950.jpg
-thumbnail-img: https://user-images.githubusercontent.com/116997215/233307980-82d24610-929f-4b5a-bae4-49955519c1a0.jpg
+thumbnail-img: https://user-images.githubusercontent.com/116997215/233302904-e81e0387-0e39-4fbd-9f2d-d3c63ee0f25b.jpg
 tags:
   - entertainment
 is_show: true
