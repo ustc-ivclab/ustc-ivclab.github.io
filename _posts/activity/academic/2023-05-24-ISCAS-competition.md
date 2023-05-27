@@ -1,7 +1,7 @@
 ---
 title: 2023 ISCAS Grand Challenge on Neural Network-based Video Coding
 cover-img: https://github.com/ustc-ivclab/ustc-ivclab.github.io/assets/116997215/23c911d2-4f27-4a8e-b768-074003ac8a6f
-thumbnail-img: https://github.com/ustc-ivclab/ustc-ivclab.github.io/assets/116997215/6c3b9ed2-46be-43ac-a1dc-313358793408
+thumbnail-img: https://github.com/ustc-ivclab/ustc-ivclab.github.io/assets/116997215/23c911d2-4f27-4a8e-b768-074003ac8a6f
 tags:
   - academic
 is_show: true
