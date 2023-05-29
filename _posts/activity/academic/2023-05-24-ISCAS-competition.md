@@ -7,9 +7,8 @@ tags:
 is_show: true
 ---
 
-## USTC-IVC Team, Led by Sheng Xihua, Secures Championship in 2023 ISCAS Grand Challenge on Neural Network-based Video Coding
+## USTC-iVC Received Award in ISCAS 2023 Grand Challenge on Neural Network-Based Video Coding
 
-USTC-iVC Received Award in ISCAS 2023 Grand Challenge on Neural Network-Based Video Coding
 
 The USTC-iVC team (Xihua Sheng, Li Li, and Dong Liu) received the Top Performance Award in the End-to-End Track of the Grand Challenge on Neural Network-Based Video Coding, in the 2023 IEEE International Symposium on Circuits and Systems. Congratulations to the team!
 
