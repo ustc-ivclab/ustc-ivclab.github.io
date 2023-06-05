@@ -22,7 +22,6 @@ The 85th AVS conference was held in Changsha, Hunan from June 1st to 3rd, 2023. 
 ![yiheng](https://github.com/ustc-ivclab/ustc-ivclab.github.io/assets/116997215/5f8e61b4-ce27-48e1-91e8-30c3c304d8c8)
 ![bowei](https://github.com/ustc-ivclab/ustc-ivclab.github.io/assets/116997215/ac60e3c5-646d-47a2-9d6d-3b2973a9796c)
 ![1](https://github.com/ustc-ivclab/ustc-ivclab.github.io/assets/54491702/b14578b9-6bf2-4638-b51b-3a2a9308a787)
-![2](https://github.com/ustc-ivclab/ustc-ivclab.github.io/assets/54491702/7ae7d503-1854-42fa-9a0b-eca87ad68bcc)
 ![3](https://github.com/ustc-ivclab/ustc-ivclab.github.io/assets/54491702/5b5180b4-e177-4e72-a425-4fe42878c86e)
 ![4](https://github.com/ustc-ivclab/ustc-ivclab.github.io/assets/54491702/c501bb56-e0fd-4534-9efd-40a59712f099)
 ![5](https://github.com/ustc-ivclab/ustc-ivclab.github.io/assets/54491702/000533c2-1b86-436d-b76a-a03241ed64f2)
