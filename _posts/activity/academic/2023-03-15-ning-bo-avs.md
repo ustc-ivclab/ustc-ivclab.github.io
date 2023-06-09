@@ -4,7 +4,7 @@ cover-img: https://user-images.githubusercontent.com/116997215/227219562-ae487f4
 thumbnail-img: https://user-images.githubusercontent.com/116997215/227208191-bcbb7283-72fd-4356-ba31-59aa2c48f15b.jpg
 tags:
   - academic
-is_show: true
+is_show: false
 ---
 
 ## Photos
