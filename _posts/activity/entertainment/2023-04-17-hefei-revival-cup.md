@@ -3,7 +3,7 @@ title: 2023 The second "Revival Cup" basketball tournament
 cover-img: https://user-images.githubusercontent.com/116997215/232469423-8c9ee4d8-3b16-4aa7-a7f3-f99a547ea3a3.jpg
 tags:
   - entertainment
-is_show: true
+is_show: false
 ---
 
 
