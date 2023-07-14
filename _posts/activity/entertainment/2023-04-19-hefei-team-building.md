@@ -4,7 +4,7 @@ cover-img: https://user-images.githubusercontent.com/116997215/233303064-0431e44
 thumbnail-img: https://user-images.githubusercontent.com/116997215/233302904-e81e0387-0e39-4fbd-9f2d-d3c63ee0f25b.jpg
 tags:
   - entertainment
-is_show: true
+is_show: false
 ---
 
 ## Photos
