@@ -5,6 +5,7 @@ title: USTC iVC Lab Papers
 
 ## Journal papers
 
+- (Early Access) Yanchen Zuo, Changsheng Gao, Dong Liu, Li Li, Yueyi Zhang, Xiaoyan Sun. Learned rate-distortion cost prediction for ultrafast screen content intra coding. IEEE Transactions on Circuits and Systems for Video Technology (TCSVT). [DOI](https://doi.org/10.1109/TCSVT.2023.3296515)
 - (Early Access) Xihua Sheng, Jiahao Li, Bin Li, Li Li, Dong Liu, Yan Lu. Temporal context mining for learned video compression. IEEE Transactions on Multimedia (TMM). [DOI](https://doi.org/10.1109/TMM.2022.3220421)
 - Aolin Feng, Kang Liu, Dong Liu, Li Li, Feng Wu. Partition map prediction for fast block partitioning in VVC intra-frame coding. IEEE Transactions on Image Processing (TIP). vol 32, pp 2237-2251. [DOI](https://doi.org/10.1109/TIP.2023.3266165)
 - Haisheng Fu, Feng Liang, Jianping Lin, Bing Li, Mohammad Akbari, Jie Liang, Guohe Zhang, Dong Liu, Chengjie Tu, Jingning Han. Learned image compression with Gaussian-Laplacian-logistic mixture model and concatenated residual modules. IEEE Transactions on Image Processing (TIP). vol 32, pp 2063-2076. [DOI](https://doi.org/10.1109/TIP.2023.3263099)
@@ -48,6 +49,10 @@ title: USTC iVC Lab Papers
 
 ## Conference papers
 
+- Bojun Liu, Shanshan Li, Xihua Sheng, Li Li, Dong Liu. Joint optimized point cloud compression for 3D object detection. ICIP 2023
+- Fan Ye, Li Li, Dong Liu. Content-adaptive block clustering for improving VVC adaptive loop filtering. ICIG 2023
+- Haotian Zhang, Junqi Liao, Yiheng Jiang, Li Li, Dong Liu. Padding-aware learned image compression. ISCAS 2023
+- Dongmei Xue, Cunhui Dong, Fan Ye, Hang Chen, Bowei Kang, Li Li, Dong Liu. iWavePro: An improved framework for iWave++. ISCAS 2023
 - Yao Li, Zhuoyuan Li, Li Li, Dong Liu, Houqiang Li. Global homography motion compensation for Versatile Video Coding. VCIP 2022
 - Cunhui Dong, Haichuan Ma, Dong Liu, John W. Woods. Wavelet-based learned scalable video coding. ISCAS 2022 (ISCAS Grand Challenge Top Creativity Award)
 - Shanshan Li, Li Li, Dong Liu, Houqiang Li. Spatially scalable video-based point cloud compression. ISCAS 2022
