@@ -5,6 +5,7 @@ title: USTC iVC Lab Papers
 
 ## Journal papers
 
+- (Early Access) Dongmei Xue, Haichuan Ma, Li Li, Dong Liu, Zhiwei Xiong, Houqiang Li. DBVC: An end-to-end deep 3-D biomedical video coding framework. IEEE Transactions on Circuits and Systems for Video Technology (TCSVT). [DOI](https://doi.org/10.1109/TCSVT.2023.3303228)
 - (Early Access) Yanchen Zuo, Changsheng Gao, Dong Liu, Li Li, Yueyi Zhang, Xiaoyan Sun. Learned rate-distortion cost prediction for ultrafast screen content intra coding. IEEE Transactions on Circuits and Systems for Video Technology (TCSVT). [DOI](https://doi.org/10.1109/TCSVT.2023.3296515)
 - (Early Access) Xihua Sheng, Jiahao Li, Bin Li, Li Li, Dong Liu, Yan Lu. Temporal context mining for learned video compression. IEEE Transactions on Multimedia (TMM). [DOI](https://doi.org/10.1109/TMM.2022.3220421)
 - Aolin Feng, Kang Liu, Dong Liu, Li Li, Feng Wu. Partition map prediction for fast block partitioning in VVC intra-frame coding. IEEE Transactions on Image Processing (TIP). vol 32, pp 2237-2251. [DOI](https://doi.org/10.1109/TIP.2023.3266165)
