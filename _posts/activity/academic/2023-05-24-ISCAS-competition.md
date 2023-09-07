@@ -4,7 +4,7 @@ cover-img: https://github.com/ustc-ivclab/ustc-ivclab.github.io/assets/116997215
 thumbnail-img: https://github.com/ustc-ivclab/ustc-ivclab.github.io/assets/116997215/23c911d2-4f27-4a8e-b768-074003ac8a6f
 tags:
   - academic
-is_show: true
+is_show: false
 ---
 
 ## USTC-iVC Received Award in ISCAS 2023 Grand Challenge on Neural Network-Based Video Coding
