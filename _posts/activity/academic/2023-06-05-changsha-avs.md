@@ -4,7 +4,7 @@ cover-img: https://github.com/ustc-ivclab/ustc-ivclab.github.io/assets/54491702/
 thumbnail-img: https://github.com/ustc-ivclab/ustc-ivclab.github.io/assets/116997215/9c19c970-6b63-426c-9fae-75d870986a7b
 tags:
   - academic
-is_show: true
+is_show: false
 ---
 
 ## The 85th AVS
