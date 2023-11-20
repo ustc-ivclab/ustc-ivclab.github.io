@@ -8,7 +8,6 @@ tags:
 
 ![zuozhirui](https://github.com/ustc-ivclab/ustc-ivclab.github.io/assets/116997215/3694b868-a9e3-414e-a893-40db390f8c4c)
 
-
 ## Information
 
 - Chinese name: 左之睿

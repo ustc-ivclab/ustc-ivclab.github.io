@@ -1,13 +1,16 @@
 ---
 title: 2023 Apr. Team Building
-cover-img: https://user-images.githubusercontent.com/116997215/233303064-0431e44e-08de-4869-9028-9676f2872950.jpg
-thumbnail-img: https://user-images.githubusercontent.com/116997215/233302904-e81e0387-0e39-4fbd-9f2d-d3c63ee0f25b.jpg
+cover-img: 
+  https://user-images.githubusercontent.com/116997215/233303064-0431e44e-08de-4869-9028-9676f2872950.jpg
+thumbnail-img: 
+  https://user-images.githubusercontent.com/116997215/233302904-e81e0387-0e39-4fbd-9f2d-d3c63ee0f25b.jpg
 tags:
   - entertainment
 is_show: false
 ---
 
 ## Photos
+
 ![XIAQI1](https://user-images.githubusercontent.com/116997215/233302728-687c16e3-1784-4a0e-8b68-e535b97ac2e5.jpg)
 ![xiaqi2](https://user-images.githubusercontent.com/116997215/233302836-c04787a2-882b-460d-8e89-e56761328acd.jpg)
 ![shejian2](https://user-images.githubusercontent.com/116997215/233302318-40e730dc-ae52-46f5-9dea-8b8f34398b2c.jpg)

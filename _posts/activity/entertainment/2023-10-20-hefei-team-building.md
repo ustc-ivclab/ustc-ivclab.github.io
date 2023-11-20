@@ -1,13 +1,16 @@
 ---
 title: 2023 Oct. Team Building
-cover-img: https://github.com/ustc-ivclab/ustc-ivclab.github.io/assets/116997215/58216c2c-cd87-4f55-a628-22674c9811a3
-thumbnail-img: https://github.com/ustc-ivclab/ustc-ivclab.github.io/assets/116997215/2befd9b3-396c-4e61-ae85-4ffcd387ff84
+cover-img: 
+  https://github.com/ustc-ivclab/ustc-ivclab.github.io/assets/116997215/58216c2c-cd87-4f55-a628-22674c9811a3
+thumbnail-img: 
+  https://github.com/ustc-ivclab/ustc-ivclab.github.io/assets/116997215/2befd9b3-396c-4e61-ae85-4ffcd387ff84
 tags:
   - entertainment
 is_show: true
 ---
 
 ## Photos
+
 ![10](https://github.com/ustc-ivclab/ustc-ivclab.github.io/assets/116997215/58216c2c-cd87-4f55-a628-22674c9811a3)
 ![9](https://github.com/ustc-ivclab/ustc-ivclab.github.io/assets/116997215/d252760a-a33e-4ae5-8852-1a070c9fac41)
 ![8](https://github.com/ustc-ivclab/ustc-ivclab.github.io/assets/116997215/33d0d34a-3c1c-4b1b-930d-4e2ab1ccb335)
@@ -28,4 +31,3 @@ is_show: true
 ![4](https://github.com/ustc-ivclab/ustc-ivclab.github.io/assets/116997215/832f5a52-fbe0-407e-ad73-9fb2023ed462)
 ![5](https://github.com/ustc-ivclab/ustc-ivclab.github.io/assets/116997215/d5125fe0-6874-453a-874b-1cead30a45d4)
 ![6](https://github.com/ustc-ivclab/ustc-ivclab.github.io/assets/116997215/70871584-ff87-4b01-8ad9-2cfcb1e51f2b)
-
