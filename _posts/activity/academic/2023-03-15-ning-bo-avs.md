@@ -1,7 +1,9 @@
 ---
 title: AVS 84 @ Ning Bo
-cover-img: https://user-images.githubusercontent.com/116997215/227219562-ae487f42-2d2c-4e26-a0aa-fb57016f3131.jpg
-thumbnail-img: https://user-images.githubusercontent.com/116997215/227208191-bcbb7283-72fd-4356-ba31-59aa2c48f15b.jpg
+cover-img: 
+  https://user-images.githubusercontent.com/116997215/227219562-ae487f42-2d2c-4e26-a0aa-fb57016f3131.jpg
+thumbnail-img: 
+  https://user-images.githubusercontent.com/116997215/227208191-bcbb7283-72fd-4356-ba31-59aa2c48f15b.jpg
 tags:
   - academic
 is_show: false
