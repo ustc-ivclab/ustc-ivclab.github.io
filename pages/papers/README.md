@@ -5,9 +5,10 @@ title: USTC iVC Lab Papers
 
 ## Journal papers
 
+- (Early Access) Cunhui Dong, Haichuan Ma, Zhuoyuan Li, Li Li, Dong Liu. Temporal wavelet transform-based low-complexity perceptual quality enhancement of compressed video. IEEE Transactions on Circuits and Systems for Video Technology (TCSVT). [DOI](https://doi.org/10.1109/TCSVT.2023.3316834)
 - (Early Access) Dongmei Xue, Haichuan Ma, Li Li, Dong Liu, Zhiwei Xiong, Houqiang Li. DBVC: An end-to-end deep 3-D biomedical video coding framework. IEEE Transactions on Circuits and Systems for Video Technology (TCSVT). [DOI](https://doi.org/10.1109/TCSVT.2023.3303228)
 - (Early Access) Yanchen Zuo, Changsheng Gao, Dong Liu, Li Li, Yueyi Zhang, Xiaoyan Sun. Learned rate-distortion cost prediction for ultrafast screen content intra coding. IEEE Transactions on Circuits and Systems for Video Technology (TCSVT). [DOI](https://doi.org/10.1109/TCSVT.2023.3296515)
-- (Early Access) Xihua Sheng, Jiahao Li, Bin Li, Li Li, Dong Liu, Yan Lu. Temporal context mining for learned video compression. IEEE Transactions on Multimedia (TMM). [DOI](https://doi.org/10.1109/TMM.2022.3220421)
+- Xihua Sheng, Jiahao Li, Bin Li, Li Li, Dong Liu, Yan Lu. Temporal context mining for learned video compression. IEEE Transactions on Multimedia (TMM). [DOI](https://doi.org/10.1109/TMM.2022.3220421)
 - Aolin Feng, Kang Liu, Dong Liu, Li Li, Feng Wu. Partition map prediction for fast block partitioning in VVC intra-frame coding. IEEE Transactions on Image Processing (TIP). vol 32, pp 2237-2251. [DOI](https://doi.org/10.1109/TIP.2023.3266165)
 - Haisheng Fu, Feng Liang, Jianping Lin, Bing Li, Mohammad Akbari, Jie Liang, Guohe Zhang, Dong Liu, Chengjie Tu, Jingning Han. Learned image compression with Gaussian-Laplacian-logistic mixture model and concatenated residual modules. IEEE Transactions on Image Processing (TIP). vol 32, pp 2063-2076. [DOI](https://doi.org/10.1109/TIP.2023.3263099)
 - Changsheng Gao, Dong Liu, Li Li, Feng Wu. Towards task-generic image compression: A study of semantics-oriented metrics. IEEE Transactions on Multimedia (TMM). vol 25, pp 721-735. [DOI](https://doi.org/10.1109/TMM.2021.3130754)
