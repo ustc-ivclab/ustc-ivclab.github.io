@@ -6,7 +6,7 @@ thumbnail-img:
   https://github.com/ustc-ivclab/ustc-ivclab.github.io/assets/116997215/375013e5-a4bd-47cf-b96b-945d4457651e
 tags:
   - entertainment
-is_show: true
+is_show: false
 ---
 
 ## Photos
