@@ -5,6 +5,9 @@ title: USTC iVC Lab Papers
 
 ## Journal papers
 
+- (Early Access) Xihua Sheng, Li Li, Dong Liu, Houqiang Li. Spatial decomposition and temporal fusion based inter prediction for learned video compression. IEEE Transactions on Circuits and Systems for Video Technology (TCSVT). [DOI](https://doi.org/10.1109/TCSVT.2024.3360248)
+- (Early Access) Junqi Liao, Li Li, Dong Liu, Houqiang Li. Content-adaptive rate-distortion modeling for frame-level rate control in Versatile Video Coding. IEEE Transactions on Multimedia (TMM). [DOI](https://doi.org/10.1109/TMM.2024.3358063)
+- (Early Access) Xihua Sheng, Li Li, Dong Liu, Houqiang Li. VNVC: A versatile neural video coding framework for efficient human-machine vision. IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI). [DOI](https://doi.org/10.1109/TPAMI.2024.3356548)
 - (Early Access) Cunhui Dong, Haichuan Ma, Zhuoyuan Li, Li Li, Dong Liu. Temporal wavelet transform-based low-complexity perceptual quality enhancement of compressed video. IEEE Transactions on Circuits and Systems for Video Technology (TCSVT). [DOI](https://doi.org/10.1109/TCSVT.2023.3316834)
 - (Early Access) Dongmei Xue, Haichuan Ma, Li Li, Dong Liu, Zhiwei Xiong, Houqiang Li. DBVC: An end-to-end deep 3-D biomedical video coding framework. IEEE Transactions on Circuits and Systems for Video Technology (TCSVT). [DOI](https://doi.org/10.1109/TCSVT.2023.3303228)
 - (Early Access) Yanchen Zuo, Changsheng Gao, Dong Liu, Li Li, Yueyi Zhang, Xiaoyan Sun. Learned rate-distortion cost prediction for ultrafast screen content intra coding. IEEE Transactions on Circuits and Systems for Video Technology (TCSVT). [DOI](https://doi.org/10.1109/TCSVT.2023.3296515)
@@ -51,6 +54,12 @@ title: USTC iVC Lab Papers
 
 ## Conference papers
 
+- Chuanbo Tang, Xihua Sheng, Zhuoyuan Li, Haotian Zhang, Li Li, Dong Liu. Offline and online optical flow enhancement for deep video compression. AAAI 2024
+- Ziyi Zhuang, Li Li, Dong Liu. Temporal dependency-oriented deep in-loop filter for VVC. IFTC 2023
+- Yuqi Li, Haotian Zhang, Dong Liu. Flexible coding order for learned image compression. VCIP 2023
+- Feihong Mei, Li Li, Dong Liu. Variable-rate learned image compression with adaptive quantization step size. VCIP 2023
+- Hang Chen, Li Li, Dong Liu, Houqiang Li. Neural network-based occupancy map joint sampling for video-based point cloud compression. VCIP 2023
+- Junqi Liao, Li Li, Dong Liu, Houqiang Li. Reinforcement learning-based frame-level bit allocation for VVC. VCIP 2023
 - Bojun Liu, Shanshan Li, Xihua Sheng, Li Li, Dong Liu. Joint optimized point cloud compression for 3D object detection. ICIP 2023
 - Fan Ye, Li Li, Dong Liu. Content-adaptive block clustering for improving VVC adaptive loop filtering. ICIG 2023
 - Haotian Zhang, Junqi Liao, Yiheng Jiang, Li Li, Dong Liu. Padding-aware learned image compression. ISCAS 2023
