@@ -3,7 +3,7 @@ title: 2024 Graduation Season
 cover-img: 
   https://github.com/ustc-ivclab/ustc-ivclab.github.io/assets/116997215/500d4ceb-6281-47d0-b285-ef6dfcdc3c11
 thumbnail-img: 
-  https://github.com/ustc-ivclab/ustc-ivclab.github.io/assets/116997215/375013e5-a4bd-47cf-b96b-945d4457651e
+  https://github.com/ustc-ivclab/ustc-ivclab.github.io/assets/116997215/107148df-1e41-40d9-a019-5d680c266938
 tags:
   - entertainment
 is_show: True
