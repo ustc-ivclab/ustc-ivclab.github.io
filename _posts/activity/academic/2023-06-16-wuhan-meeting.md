@@ -6,7 +6,7 @@ thumbnail-img:
   https://github.com/ustc-ivclab/ustc-ivclab.github.io/assets/116997215/0ae1dfee-c178-40ff-b038-f70b877794a2
 tags:
   - academic
-is_show: true
+is_show: false
 ---
 
 ## Title
