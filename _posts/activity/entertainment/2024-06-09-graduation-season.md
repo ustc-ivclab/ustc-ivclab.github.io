@@ -1,5 +1,5 @@
 ---
-title: 2023 Graduation Season
+title: 2024 Graduation Season
 cover-img: 
   https://github.com/ustc-ivclab/ustc-ivclab.github.io/assets/116997215/500d4ceb-6281-47d0-b285-ef6dfcdc3c11
 thumbnail-img: 
