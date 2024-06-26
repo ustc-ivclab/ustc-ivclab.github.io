@@ -1,5 +1,6 @@
 ---
 category: people
+title: Lin, Jianping (林建平)
 tags:
   - alumni
 ---

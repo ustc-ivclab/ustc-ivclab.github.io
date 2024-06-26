@@ -1,5 +1,6 @@
 ---
 category: people
+title: Xue, Dongmei (薛冬梅)
 tags:
   - student
 ---

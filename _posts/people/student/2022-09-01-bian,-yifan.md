@@ -1,5 +1,6 @@
 ---
 category: people
+title: Bian, Yifan (卞逸凡)
 tags:
   - student
 ---

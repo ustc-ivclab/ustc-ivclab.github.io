@@ -1,5 +1,6 @@
 ---
 category: people
+title: Zhuang, Ziyi (庄子怡)
 tags:
   - student
 ---

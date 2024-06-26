@@ -1,5 +1,6 @@
 ---
 category: people
+title: Chen, Qiaoxi (陈乔希)
 tags:
   - student
 ---

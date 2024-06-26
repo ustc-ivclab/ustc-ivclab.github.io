@@ -1,5 +1,6 @@
 ---
 category: people
+title: Zhao, Hengrui (赵恒锐)
 tags:
   - alumni
 ---

@@ -1,5 +1,6 @@
 ---
 category: people
+title: Jiang, Yiheng (蒋易恒)
 tags:
   - student
 ---

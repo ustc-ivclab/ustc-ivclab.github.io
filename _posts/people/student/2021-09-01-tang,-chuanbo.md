@@ -1,5 +1,6 @@
 ---
 category: people
+title: Tang, Chuanbo (唐传波)
 tags:
   - student
 ---

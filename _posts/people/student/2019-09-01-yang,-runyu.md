@@ -1,5 +1,6 @@
 ---
 category: people
+title: Yang, Runyu (杨闰宇)
 tags:
   - student
 ---

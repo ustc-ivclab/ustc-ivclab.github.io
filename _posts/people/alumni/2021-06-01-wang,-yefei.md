@@ -1,5 +1,6 @@
 ---
 category: people
+title: Wang, Yefei (王叶斐)
 tags:
   - alumni
 ---

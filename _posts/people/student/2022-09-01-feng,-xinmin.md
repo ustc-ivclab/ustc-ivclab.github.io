@@ -1,5 +1,6 @@
 ---
 category: people
+title: Feng, Xinmin (冯新民)
 tags:
   - student
 ---

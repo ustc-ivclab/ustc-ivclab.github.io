@@ -1,5 +1,6 @@
 ---
 category: people
+title: Zuo, Zhirui (左之睿)
 tags:
   - student
 ---

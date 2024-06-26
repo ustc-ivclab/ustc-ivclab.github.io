@@ -1,5 +1,6 @@
 ---
 category: people
+title: Ma, Haichuan (马海川)
 tags:
   - alumni
 ---

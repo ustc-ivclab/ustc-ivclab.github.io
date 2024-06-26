@@ -1,5 +1,6 @@
 ---
 category: people
+title: Li, zhuoyuan (李卓元)
 tags:
   - student
 ---

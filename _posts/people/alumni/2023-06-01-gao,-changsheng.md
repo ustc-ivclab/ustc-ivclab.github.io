@@ -1,5 +1,6 @@
 ---
 category: people
+title: Gao, Changsheng (高长生)
 tags:
   - alumni
 ---

@@ -1,5 +1,6 @@
 ---
 category: people
+title: Kang, Bowei (康博威)
 tags:
   - student
 ---

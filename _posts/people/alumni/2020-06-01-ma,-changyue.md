@@ -1,5 +1,6 @@
 ---
 category: people
+title: Ma, Changyue (马常月)
 tags:
   - alumni
 ---

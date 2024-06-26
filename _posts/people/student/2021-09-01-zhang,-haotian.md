@@ -1,5 +1,6 @@
 ---
 category: people
+title: Zhang, Haotian (张昊田)
 tags:
   - student
 ---

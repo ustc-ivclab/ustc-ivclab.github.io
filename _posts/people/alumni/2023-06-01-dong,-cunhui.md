@@ -1,5 +1,6 @@
 ---
 category: people
+title: Dong, Cunhui (董存辉)
 tags:
   - alumni
 ---

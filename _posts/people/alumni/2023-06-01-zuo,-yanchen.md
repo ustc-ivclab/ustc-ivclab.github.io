@@ -1,5 +1,6 @@
 ---
 category: people
+title: Zuo, Yanchen (左延辰)
 tags:
   - alumni
 ---

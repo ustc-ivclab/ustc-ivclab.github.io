@@ -1,5 +1,6 @@
 ---
 category: people
+title: Zhang, Ziqiu (张子秋)
 tags:
   - alumni
 ---
