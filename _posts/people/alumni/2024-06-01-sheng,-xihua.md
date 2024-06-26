@@ -1,5 +1,6 @@
 ---
 category: people
+title: Sheng, Xihua (盛锡华)
 tags:
   - alumni
 ---
