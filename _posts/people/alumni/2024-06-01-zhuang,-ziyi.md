@@ -1,6 +1,6 @@
 ---
 category: people
-title: Zhuang, Ziyi 
+title: Zhuang, Ziyi (庄子仪)
 tags:
   - alumni
 ---
