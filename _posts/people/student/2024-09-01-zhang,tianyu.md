@@ -1,6 +1,6 @@
 ---
 category: people
-title: Chen, Zixu (陈子旭)
+title: Zhang, Tianyu (张天宇)
 tags:
   - student
 ---
@@ -11,10 +11,10 @@ tags:
 
 ## Information
 
-- Chinese name: 陈子旭
-- English name: Zixu
-- Interests: Cycling、Japanese literature、FPS games
-- Homepage: https://github.com/seracter
+- Chinese name: 张天宇
+- English name: Tianyu Zhang
+- Interests: Football, Table Tennis
+- Homepage: 
 - Education experience：
   - 2024.09 - present: M.S. candidate in University of Science and Technology of China
-  - 2020.09 - 2024.06: B.E. in Beihang University
+  - 2020.09 - 2024.06: B.E. in University of Science and Technology of China

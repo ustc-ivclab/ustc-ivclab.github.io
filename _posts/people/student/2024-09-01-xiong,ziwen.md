@@ -16,5 +16,5 @@ tags:
 - Interests: badminton
 - Homepage:
 - Education experience：
-    - 2024.09 - present: M.S. candidate in University of Science and Technology of China
-    - 2020.09 - 2024.06: B.E. in Huazhong University of Science and Technology
+  - 2024.09 - present: M.S. candidate in University of Science and Technology of China
+  - 2020.09 - 2024.06: B.E. in Huazhong University of Science and Technology
