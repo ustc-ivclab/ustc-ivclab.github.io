@@ -7,7 +7,7 @@ tags:
 
 ## Photo
 
-<!-- ![heqian](https://github.com/ustc-ivclab/ustc-ivclab.github.io/assets/116997215/3694b868-a9e3-414e-a893-40db390f8c4c) -->
+![yzg](https://github.com/user-attachments/assets/ed05310e-9b91-4369-9122-1851f2f55d3c)
 
 ## Information
 
