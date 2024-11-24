@@ -7,7 +7,7 @@ tags:
 
 ## Photo
 
-![profile]([https://user-images.githubusercontent.com/116997215/198896887-55da512b-8708-4fcb-b313-0eb645c593dc.jpg](https://github.com/user-attachments/assets/76fa5adf-b36e-44ac-9c24-9a7cdbddb56c))
+![profile](https://github.com/user-attachments/assets/76fa5adf-b36e-44ac-9c24-9a7cdbddb56c)
 
 ## Information
 
