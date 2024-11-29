@@ -61,6 +61,15 @@ title: USTC iVC Lab Papers
 
 ## Conference papers
 
+- Zhirui Zuo, Junqi Liao, Xiaomin Song, Zheng Liu, Huiming Zheng, Dong Liu. Frame level content adaptive λ for neural video compression. VCIP 2024
+- Rui Mao, Xinmin Feng, Changsheng Gao, Li Li, Dong Liu, Xiaoyan Sun. Perceptual image compression with conditional diffusion transformers. VCIP 2024
+- Yifan Ma, Changsheng Gao, Qiaoxi Chen, Li Li, Dong Liu, Xiaoyan Sun. Feature compression with 3D sparse convolution. VCIP 2024
+- Zhuoyuan Li, Jiacheng Li, Yao Li, Li Li, Dong Liu, Feng Wu. In-loop filtering via trained look-up tables. VCIP 2024
+- Zhuoyuan Li, Yao Li, Chuanbo Tang, Li Li, Dong Liu, Feng Wu. Uniformly accelerated motion model for inter prediction. VCIP 2024
+- Yuqi Li, Haotian Zhang, Xiaomin Song, Zheng Liu, Huiming Zheng, Li Li, Dong Liu. Deviation control for learned image compression. VCIP 2024
+- Qiaoxi Chen, Changsheng Gao, Dong Liu. End-to-end learned scalable multilayer feature compression for machine vision tasks. ICIP 2024
+- Runyu Yang, Dong Liu, Feng Wu, Wen Gao. Neural radiance field-assisted static-scene video coding. ICIP 2024
+- Xinmin Feng, Li Li, Dong Liu, Feng Wu. Efficient partition map prediction via token sparsification for fast VVC intra coding. MMSP 2024
 - Changsheng Gao, Yiheng Jiang, Li Li, Dong Liu, Feng Wu. DMOFC: Discrimination metric-optimized feature compression. PCS 2024
 - Haotian Zhang, Feihong Mei, Junqi Liao, Li Li, Houqiang Li, Dong Liu. Practical learned image compression with online encoder optimization. PCS 2024
 - Jiyu Xie, Li Li, Dong Liu, Houqiang Li. Content-adaptive variable resolution framework for intra coding. ISCAS 2024
