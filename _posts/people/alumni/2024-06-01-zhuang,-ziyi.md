@@ -11,7 +11,6 @@ tags:
 
 ## Information
 
-- Chinese name: 庄子怡
 - 毕业时间: 2024年6月
 - 导师: 刘东
 - 工作地点: 夏威夷大学阿马诺分校
