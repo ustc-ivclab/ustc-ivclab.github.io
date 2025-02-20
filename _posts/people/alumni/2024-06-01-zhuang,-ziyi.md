@@ -1,13 +1,13 @@
 ---
 category: people
-title: Lin, Jianping (林建平)
+title: Zhuang, Ziyi (庄子怡)
 tags:
   - alumni
 ---
 
 ## Photo
 
-![林建平](https://user-images.githubusercontent.com/116997215/201502857-b20168c3-a8c5-49e9-afeb-c049f363b870.jpg)
+![庄子怡](https://github.com/user-attachments/assets/cbd6afe4-75ab-4f4f-b75b-d6c1987704ad)
 
 ## Information
 
