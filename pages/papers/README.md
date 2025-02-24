@@ -5,8 +5,11 @@ title: USTC iVC Lab Papers
 
 ## Journal papers
 
-- (Early Access) Changsheng Gao, Yiheng Jiang, Siqi Wu, Yifan Ma, Li Li, Dong Liu. IMOFC: Identity-level metric optimized feature compression for identification tasks. IEEE Transactions on Circuits and Systems for Video Technology (TCSVT). [DOI](https://doi.org/10.1109/TCSVT.2024.3467124)
-- (Early Access) Zhuoyuan Li, Zikun Yuan, Li Li, Dong Liu, Xiaohu Tang, Feng Wu. Object segmentation-assisted inter prediction for versatile video coding. IEEE Transactions on Broadcasting (TBC). [DOI](https://doi.org/10.1109/TBC.2024.3434520)
+- (Early Access) Xihua Sheng, Li Li, Dong Liu, Shiqi Wang. Bi-directional deep contextual video compression. IEEE Transactions on Multimedia (TMM). [DOI](https://doi.org/10.1109/TMM.2025.3543061)
+- (Early Access) Runyu Yang, Dong Liu, Feng Wu, Wen Gao. Learned image compression with efficient cross-platform entropy coding. IEEE Journal on Emerging and Selected Topics in Circuits and Systems (JETCAS). [DOI](https://doi.org/10.1109/JETCAS.2025.3538652)
+- (Early Access) Yiheng Jiang, Haotian Zhang, Li Li, Dong Liu, Zhu Li. Sparse point clouds assisted learned image compression. IEEE Transactions on Circuits and Systems for Video Technology (TCSVT). [DOI](https://doi.org/10.1109/TCSVT.2024.3522621)
+- Changsheng Gao, Yiheng Jiang, Siqi Wu, Yifan Ma, Li Li, Dong Liu. IMOFC: Identity-level metric optimized feature compression for identification tasks. IEEE Transactions on Circuits and Systems for Video Technology (TCSVT). [DOI](https://doi.org/10.1109/TCSVT.2024.3467124)
+- Zhuoyuan Li, Zikun Yuan, Li Li, Dong Liu, Xiaohu Tang, Feng Wu. Object segmentation-assisted inter prediction for versatile video coding. IEEE Transactions on Broadcasting (TBC). [DOI](https://doi.org/10.1109/TBC.2024.3434520)
 - Runyu Yang, Dong Liu, Feng Wu, Wen Gao. CC-SMC: Chain coding-based segmentation map lossless compression. Journal of Visual Communication and Image Representation. [DOI](https://doi.org/10.1016/j.jvcir.2024.104222)
 - Xihua Sheng, Li Li, Dong Liu, Houqiang Li. Spatial decomposition and temporal fusion based inter prediction for learned video compression. IEEE Transactions on Circuits and Systems for Video Technology (TCSVT). [DOI](https://doi.org/10.1109/TCSVT.2024.3360248)
 - Xihua Sheng, Li Li, Dong Liu, Houqiang Li. VNVC: A versatile neural video coding framework for efficient human-machine vision. IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI). [DOI](https://doi.org/10.1109/TPAMI.2024.3356548)
@@ -61,6 +64,11 @@ title: USTC iVC Lab Papers
 
 ## Conference papers
 
+- Siqi Wu, Yinda Chen, Dong Liu, Zhihai He. Conditional latent coding with learnable synthesized reference for deep image compression. AAAI 2025
+- Tianyu Zhang, Haotian Zhang, Yuqi Li, Li Li, Dong Liu. Few-shot domain adaptation for learned image compression. AAAI 2025
+- Yuqi Li, Haotian Zhang, Xiaomin Song, Zheng Liu, Huiming Zheng, Li Li, Dong Liu. Deviation control for learned image compression. VCIP 2024
+- Zhuoyuan Li, Jiacheng Li, Yao Li, Li Li, Dong Liu, Feng Wu. In-loop filtering via trained look-up tables. VCIP 2024
+- Zhuoyuan Li, Yao Li, Chuanbo Tang, Li Li, Dong Liu, Feng Wu. Uniformly accelerated motion model for inter prediction. VCIP 2024
 - Zhirui Zuo, Junqi Liao, Xiaomin Song, Zheng Liu, Huiming Zheng, Dong Liu. Frame level content adaptive λ for neural video compression. VCIP 2024
 - Rui Mao, Xinmin Feng, Changsheng Gao, Li Li, Dong Liu, Xiaoyan Sun. Perceptual image compression with conditional diffusion transformers. VCIP 2024
 - Yifan Ma, Changsheng Gao, Qiaoxi Chen, Li Li, Dong Liu, Xiaoyan Sun. Feature compression with 3D sparse convolution. VCIP 2024
